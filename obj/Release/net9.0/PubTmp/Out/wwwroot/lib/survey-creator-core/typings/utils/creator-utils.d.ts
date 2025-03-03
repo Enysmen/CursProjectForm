@@ -1,0 +1,10 @@
+import { ItemValue, Question, SurveyElement } from "survey-core";
+export declare function getNextItemValue(prefix: string, choices: ItemValue[]): string | number;
+export declare function getNextItemText(choices: ItemValue[]): string;
+export declare function getNextValue(prefix: string, values: any[]): string | number;
+export declare function propertyExists(obj: any, propertyName: string): boolean;
+export declare function isPropertyVisible(obj: any, propertyName: string): boolean;
+export declare function getQuestionFromObj(obj: SurveyElement): Question;
+export declare function scrollElementIntoView(elementId: string): void;
+export declare function assignDefaultV2Classes(destination: any, questionType: string): void;
+export declare function wrapTextByCurlyBraces(text: string): string;

@@ -1,0 +1,176 @@
+﻿@using CursProject.Models
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+@using CursProject.Resources
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject UserManager<ApplicationUser> UserManager
+@inject IHtmlLocalizer<SharedResource> Localizer
+@model SurveyTemplate
+@{
+    ViewData["Title"] = Localizer["Creating a form template"];
+    // If the JsonSchema field is empty, set the initial value of the JSON schema
+    var initialSchema = string.IsNullOrEmpty(Model.JsonSchema)
+        ? Newtonsoft.Json.JsonConvert.SerializeObject(new
+        {
+            title = Localizer["New Poll"],
+            description = Localizer["Enter a description of the survey"],
+            elements = new object[] { }
+        })
+        : Model.JsonSchema;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form id="templateForm" asp-action="Create" method="post">
+    @Html.AntiForgeryToken()
+    <!-- Hidden field for storing JSON schema -->
+    <input type="hidden" id="JsonSchema" asp-for="JsonSchema" value="@initialSchema" />
+    <!-- Hidden field for AllowedUserIds (we write user IDs separated by commas) -->
+    <input type="hidden" id="AllowedUserIds" name="AllowedUserIds" value="" />
+
+    <!-- Container for SurveyJS Creator -->
+    <div id="surveyCreatorContainer" style="height: 700px;"></div>
+
+    <!-- Access settings block -->
+    <div class="form-group mt-3">
+        <label>@Localizer["Access settings:"]</label>
+        <select id="accessSettingSelect" name="IsPublic" class="form-select">
+            <option value="true" selected>@Localizer["Public"] </option>
+            <option value="false">@Localizer["Private"]</option>
+        </select>
+    </div>
+
+    <!-- Add user block (shown if Private is selected) -->
+    <div id="allowedUsersSection" style="display:none;" class="mt-2">
+        <label>@Localizer["Enter user email to add:"]</label>
+        <div class="input-group">
+            <input type="text" id="addUserEmail" class="form-control" placeholder="user@example.com" />
+            <button type="button" id="addUserButton" class="btn btn-sm btn-primary">@Localizer["Add"]</button>
+        </div>
+
+        <h6 class="mt-3">@Localizer["Users with access:"]</h6>
+        <table class="table table-sm table-bordered" id="allowedUsersTable">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>@Localizer["Name"]</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.AllowedUsers != null)
+                {
+                    foreach (var user in Model.AllowedUsers)
+                    {
+                        <tr data-userid="@user.Id">
+                            <td>@user.Email</td>
+                            <td>@user.UserName</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <button type="button" id="saveFormBtn" class="btn btn-primary mt-3">@Localizer["Save template"]</button>
+</form>
+
+@section Scripts {
+    <script src="https://unpkg.com/survey-core/survey.core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    <script src="https://unpkg.com/survey-core/themes/index.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script>
+        // --- Initialize SurveyJS Creator constructor ---
+        var creatorOptions = {
+            showLogicTab: true,
+            isAutoSave: false
+        };
+        var creator = new SurveyCreator.SurveyCreator(creatorOptions);
+        var jsonSchemaString = document.getElementById("JsonSchema").value;
+        var jsonSchema;
+        try {
+            jsonSchema = JSON.parse(jsonSchemaString);
+        } catch (e) {
+            console.error( "JSON schema parsing error:", e);
+            jsonSchema = { title: "New Poll" , description: "Enter a description of the survey", elements: [] };
+        }
+        creator.JSON = jsonSchema;
+        document.addEventListener("DOMContentLoaded", function () {
+            creator.render("surveyCreatorContainer");
+        });
+
+        // --- Show/hide the user selection block when changing the access settings ---
+        $("#accessSettingSelect").on("change", function () {
+            if ($(this).val() === "false") {
+                $("#allowedUsersSection").show();
+            } else {
+                $("#allowedUsersSection").hide();
+            }
+        });
+
+        // --- Logic for adding users by email ---
+        // Convert the list of all users and the list of administrators from ViewBag to arrays
+        var allUsers = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.AllUsers));
+        var adminEmails = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.AdminUserEmails));
+        // Get the current user's id
+        var currentUserId = '@User.FindFirstValue(System.Security.Claims.ClaimTypes.NameIdentifier)';
+
+        // Array for storing IDs of added users
+        var allowedUsers = [];
+
+        // Handler for the "Add user" button
+        $("#addUserButton").on("click", function (e) {
+            e.preventDefault();
+            var emailInput = $("#addUserEmail").val().trim().toLowerCase();
+            if (!emailInput) {
+                alert("Please enter the user's email to add.");
+                return;
+            }
+           // Search for a user in the list by email (case-insensitive comparison)
+            var foundUser = allUsers.find(function(u) {
+                return u.Email.toLowerCase() === emailInput;
+            });
+            if (!foundUser) {
+                alert("User with this email not found.");
+                return;
+            }
+            // Check if the found user is the current one
+            if (foundUser.Id === currentUserId) {
+                alert("You cannot add yourself to the list of allowed users.");
+                return;
+            }
+            // Check if the found user is an administrator (by email)
+            if (adminEmails.indexOf(foundUser.Email.toLowerCase()) !== -1) {
+                alert("Cannot add administrator to allowed users list.");
+                return;
+            }
+            // If the user has already been added
+            if (allowedUsers.indexOf(foundUser.Id) !== -1) {
+                alert("The user has already been added.");
+                return;
+            }
+            // Add a new user to the display table
+            var newRow = "<tr data-userid='" + foundUser.Id + "'><td>" + foundUser.Email + "</td><td>" + (foundUser.UserName || "") + "</td></tr>";
+            $("#allowedUsersTable tbody").append(newRow);
+            // Save the user ID to an array
+            allowedUsers.push(foundUser.Id);
+            // Clear the input field
+            $("#addUserEmail").val("");
+            // Update the hidden field AllowedUserIds
+            $("#AllowedUserIds").val(allowedUsers.join(","));
+        });
+
+        // --- Handler for the "Save template" button ---
+        $("#saveFormBtn").on("click", function () {
+            // Update the JSON schema from the constructor
+            var updatedSchema = creator.JSON;
+            $("#JsonSchema").val(JSON.stringify(updatedSchema));
+            // Update the hidden field for allowed users
+            $("#AllowedUserIds").val(allowedUsers.join(","));
+            $("#templateForm").submit();
+        });
+    </script>
+}

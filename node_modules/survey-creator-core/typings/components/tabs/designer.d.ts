@@ -1,0 +1,57 @@
+import { Base, PageModel, SurveyModel, ActionContainer } from "survey-core";
+import { SurveyCreatorModel } from "../../creator-base";
+import { PagesController } from "../../pages-controller";
+export declare const initialSettingsAllowShowEmptyTitleInDesignMode: boolean;
+export declare class TabDesignerViewModel extends Base {
+    private minSurfaceScaling;
+    private maxSurfaceScaling;
+    private stepSurfaceScaling;
+    private cssUpdater;
+    private pagesControllerValue;
+    surfaceScale: number;
+    unitDictionary: {
+        [index: string]: number;
+    };
+    newPage: PageModel;
+    showNewPage: boolean;
+    pageCount: number;
+    designerCss: string;
+    showPlaceholder: boolean;
+    scaleCssVariables: {
+        [index: string]: string;
+    };
+    creator: SurveyCreatorModel;
+    surfaceToolbar: ActionContainer;
+    get displayPageDropTarget(): string;
+    private createNewPage;
+    private get canShowNewPage();
+    private isModifiedPage;
+    constructor(creator: SurveyCreatorModel);
+    get surveyThemeVariables(): {};
+    private initSurfaceToolbar;
+    private forceLazyRendering;
+    private scaleSurface;
+    get survey(): SurveyModel;
+    get pagesController(): PagesController;
+    get isToolboxVisible(): boolean;
+    get placeholderText(): string;
+    get placeholderTitleText(): string;
+    get placeholderDescriptionText(): string;
+    get showSurfaceToolbar(): boolean;
+    get showSurfaceTools(): boolean;
+    private isUpdatingNewPage;
+    onDesignerSurveyPropertyChanged(obj: Base, propName: string): void;
+    private calculateDesignerCss;
+    initSurvey(): void;
+    private checkNewPage;
+    private updatePages;
+    dispose(): void;
+    private checkLastPageToDelete;
+    _pages: Array<PageModel>;
+    get pages(): Array<PageModel>;
+    set pages(val: Array<PageModel>);
+    private pagesAnimation;
+    private getPagesAnimationOptions;
+    clickDesigner(): void;
+    getRootCss(): string;
+}

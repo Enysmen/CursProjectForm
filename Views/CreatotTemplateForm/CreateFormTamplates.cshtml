@@ -1,0 +1,38 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@{
+    ViewData["Title"] = "Create Forms";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/lib/survey-core/defaultV2.min.css" />
+    <link rel="stylesheet" href="~/lib/survey-core/survey.min.css" />
+    <link rel="stylesheet" href="~/lib/survey-creator-core/survey-creator-core.min.css" />
+}
+
+
+
+<div class="container mt-4">
+    <h2>Создайте шаблон формы</h2>
+    <!-- Контейнер для SurveyJS Creator -->
+    <div id="surveyCreatorContainer" style="height: 900px;"></div>
+
+    <!-- Кнопка для сохранения шаблона -->
+    <button id="saveSurvey" class="btn btn-primary mt-3">Сохранить шаблон</button>
+</div>
+
+
+
+
+@section Scripts {
+
+
+    <script src="https://unpkg.com/survey-core/survey.core.min.js"></script>
+    <script src="~/lib/survey-core/themes/index.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    <script src="~/js/CreateFroms.js" asp-append-version="true"></script>
+}
+

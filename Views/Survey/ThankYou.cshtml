@@ -1,0 +1,12 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using CursProject.Resources
+@inject IHtmlLocalizer<SharedResource> Localizer
+@{
+    ViewData["Title"] = Localizer["Thank you!"];
+}
+<h2>@Localizer["Thank you for filling out the form!"]</h2>
+<a asp-controller="SurveyTemplate" asp-action="Index" class="btn btn-primary">@Localizer["Return to the list of forms"]</a>
+
+@section Scripts {
+
+}

@@ -1,0 +1,10 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model IEnumerable<CursProject.Models.TemplateComment>
+@foreach (var comment in Model)
+{
+    <div class="comment" style="border-bottom:1px solid #ccc; padding:5px 0;">
+        <strong>@comment.User?.UserName</strong> <small>@comment.CreatedDate.ToLocalTime().ToString("g")</small>
+        <p>@comment.CommentText</p>
+    </div>
+}

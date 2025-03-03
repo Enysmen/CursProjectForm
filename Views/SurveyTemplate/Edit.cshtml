@@ -1,0 +1,195 @@
+﻿@model CursProject.Models.SurveyTemplate
+@using Microsoft.AspNetCore.Mvc.Localization
+@using CursProject.Resources
+@inject UserManager<ApplicationUser> UserManager
+@inject IHtmlLocalizer<SharedResource> Localizer
+@using Microsoft.AspNetCore.Identity
+@using CursProject.Models
+@using System.Security.Claims
+
+@{
+    ViewData["Title"] = @Localizer["Editing a form template"];
+    // If the JSON schema is empty, set the base value
+    var initialSchema = string.IsNullOrEmpty(Model.JsonSchema)
+        ? Newtonsoft.Json.JsonConvert.SerializeObject(new {
+            title = Localizer["New Poll"],
+            description = Localizer["Enter a description of the survey"],
+                elements = new object[] { }
+          })
+        : Model.JsonSchema;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+<form id="templateForm" asp-action="Edit" method="post">
+    @Html.AntiForgeryToken()
+    <input type="hidden" asp-for="Id" />
+
+    <!-- Hidden field for JSON schema -->
+    <input type="hidden" id="JsonSchema" asp-for="JsonSchema" value="@initialSchema" />
+
+    <hr />
+    <h4>@Localizer["Editing a Form in SurveyJS Creator"]</h4>
+    <div id="surveyCreatorContainer" style="height: 700px;"></div>
+
+    <br />
+    <!-- Access settings block -->
+    <div class="form-group mt-3">
+        <label>@Localizer["Access settings:"]</label>
+        <select id="accessSettingSelect" name="IsPublic" class="form-select">
+            @if (Model.IsPublic)
+            {
+                <option value="true" selected>@Localizer["Public"]</option>
+                <option value="false">@Localizer["Private"]</option>
+            }
+            else
+            {
+                <option value="true">@Localizer["Public"]</option>
+                <option value="false" selected>@Localizer["Private"]</option>
+            }
+        </select>
+    </div>
+
+    <!-- Block for editing the list of users (only for Private) -->
+    <div id="allowedUsersSection" style="display: @(Model.IsPublic ? "none" : "block");" class="mt-2">
+        <label>@Localizer["Enter user email to add:"]</label>
+        <div class="input-group">
+            <input type="text" id="addUserEmail" class="form-control" placeholder="user@example.com" />
+            <button type="button" id="addUserButton" class="btn btn-sm btn-primary">@Localizer["Add"]</button>
+        </div>
+        <h6 class="mt-3">@Localizer["Users with access:"]</h6>
+        <table class="table table-sm table-bordered" id="allowedUsersTable">
+            <thead>
+                <tr>
+                    <th>Email</th>
+                    <th>@Localizer["Name"]</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.AllowedUsers != null)
+                {
+                    foreach (var user in Model.AllowedUsers)
+                    {
+                        <tr data-userid="@user.Id">
+                            <td>@user.Email</td>
+                            <td>@user.UserName</td>
+                        </tr>
+                    }
+                }
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Hidden field for storing the list of AllowedUserIds (comma separated) -->
+    <input type="hidden" id="AllowedUserIds" name="AllowedUserIds" value="@(Model.AllowedUsers != null ? string.Join(",", Model.AllowedUsers.Select(u => u.Id)) : "")" />
+
+    <br />
+    <button type="button" id="saveFormBtn" class="btn btn-primary">@Localizer["Save changes"]</button>
+    <a asp-action="Index" class="btn btn-secondary">@Localizer["Cancel"]</a>
+</form>
+
+<!-- Form for deleting a template -->
+<form asp-action="Delete" class="mx-auto me-2" method="post" onsubmit="return confirm('@Localizer["Are you sure you want to delete the form?"]');" style="display:inline-block;">
+    @Html.AntiForgeryToken()
+    <input type="hidden" name="id" value="@Model.Id" />
+    <button type="submit" class="btn btn-danger">@Localizer["Delete form"]</button>
+</form>
+
+@section Scripts {
+    <script src="https://unpkg.com/survey-core/survey.core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    <script src="https://unpkg.com/survey-core/themes/index.min.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/js/Editcshtml.js"></script>
+
+    <script>
+        // Initialize SurveyJS Creator constructor for editing template
+        var creatorOptions = {
+            showLogicTab: true,
+            isAutoSave: false
+        };
+        var creator = new SurveyCreator.SurveyCreator(creatorOptions);
+        var jsonSchemaString = document.getElementById("JsonSchema").value;
+        var jsonSchema;
+        try {
+            jsonSchema = JSON.parse(jsonSchemaString);
+        } catch (e) {
+            console.error("JSON schema parsing error:", e);
+            jsonSchema = { title: "New Poll", description: "Enter a survey description", elements: [] };
+        }
+        creator.JSON = jsonSchema;
+        document.addEventListener("DOMContentLoaded", function () {
+            creator.render("surveyCreatorContainer");
+        });
+
+        // Show/hide the block for adding users when changing the access settings
+        $("#accessSettingSelect").on("change", function () {
+            if ($(this).val() === "false") {
+                $("#allowedUsersSection").show();
+            } else {
+                $("#allowedUsersSection").hide();
+            }
+        });
+
+        // Convert the list of all users and the list of administrators from ViewBag to arrays
+        var allUsers = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.AllUsers));
+        var adminEmails = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.AdminUserEmails));
+        var currentUserId = '@User.FindFirstValue(System.Security.Claims.ClaimTypes.NameIdentifier)';
+
+        // Array for storing IDs of added users (initialize it from the table if there are already records there)
+        var allowedUsers = [];
+        $("#allowedUsersTable tbody tr").each(function(){
+            allowedUsers.push($(this).data("userid"));
+        });
+
+
+        // Handler for the "Add user" button
+        $("#addUserButton").on("click", function (e) {
+            e.preventDefault();
+            var emailInput = $("#addUserEmail").val().trim().toLowerCase();
+            if (!emailInput) {
+                alert("Please enter the user's email to add.");
+                return;
+            }
+            // Search for user by email
+            var foundUser = allUsers.find(function(u) {
+                return u.Email.toLowerCase() === emailInput;
+            });
+            if (!foundUser) {
+                alert("User with this email not found.");
+                return;
+            }
+            // Check: Cannot add current user
+            if (foundUser.Id === currentUserId) {
+                alert("You cannot add yourself to the list of allowed users.");
+                return;
+            }
+            // Check: Cannot add administrator
+            if (adminEmails.indexOf(foundUser.Email.toLowerCase()) !== -1) {
+                alert("Cannot add administrator to allowed users list.");
+                return;
+            }
+           // Check: user already added
+            if (allowedUsers.indexOf(foundUser.Id) !== -1) {
+                alert("The user has already been added.");
+                return;
+            }
+           // Add user to table
+            var newRow = "<tr data-userid='" + foundUser.Id + "'><td>" + foundUser.Email + "</td><td>" + (foundUser.UserName || "") + "</td></tr>";
+            $("#allowedUsersTable tbody").append(newRow);
+            allowedUsers.push(foundUser.Id);
+            $("#addUserEmail").val("");
+            $("#AllowedUserIds").val(allowedUsers.join(","));
+        });
+
+        // Handler for the "Save Changes" button
+        $("#saveFormBtn").on("click", function () {
+            var updatedSchema = creator.JSON;
+            $("#JsonSchema").val(JSON.stringify(updatedSchema));
+            $("#AllowedUserIds").val(allowedUsers.join(","));
+            $("#templateForm").submit();
+        });
+    </script>
+}

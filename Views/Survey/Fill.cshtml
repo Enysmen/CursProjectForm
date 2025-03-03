@@ -1,0 +1,92 @@
+﻿@using Microsoft.AspNetCore.Mvc.Localization
+@using CursProject.Resources
+@inject IHtmlLocalizer<SharedResource> Localizer
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@{
+    ViewData["Title"] = Localizer["Filling out the form"];
+    bool isReadOnly = ViewBag.IsReadOnly != null && (bool)ViewBag.IsReadOnly;
+}
+
+<h2>@ViewData["Title"]</h2>
+
+
+<div id="surveyContainer"></div>
+
+
+<!-- Passing data to SurveyJS from Razor to global variables -->
+@{
+    var schemaJson = Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.JsonSchema);
+    var templateId = ViewBag.TemplateId != null ? ViewBag.TemplateId.ToString() : "";
+}
+
+@section Scripts {
+    <script src="https://unpkg.com/survey-core/survey.core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+
+
+
+    <script>
+        window.surveyJson = @Html.Raw(schemaJson);
+        window.templateId = '@templateId';
+    </script>
+
+
+
+
+    <script>
+
+        // Correctly serialize the JSON schema from the server
+        var jsonSchema = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(ViewBag.JsonSchema));
+
+        // Create a form object
+        var survey = new Survey.Model(jsonSchema);
+
+        // Pass the isReadOnly variable as a string ("true" or "false")
+        var isReadOnlyFlag = '@isReadOnly'.toLowerCase();
+
+
+        // Form completion handler
+        survey.onComplete.add(function (result) {
+            if (isReadOnlyFlag === "true") {
+                alert("You can only view the form. To fill out the form, please log in.");
+                return;
+            }
+            // Create a form to send a response to the server
+            var form = document.createElement("form");
+            form.method = "post";
+            form.action = '@Url.Action("Submit", "Survey")';
+
+            // Pass the form template ID
+            var templateIdInput = document.createElement("input");
+            templateIdInput.type = "hidden";
+            templateIdInput.name = "templateId";
+            templateIdInput.value = '@ViewBag.TemplateId';
+            form.appendChild(templateIdInput);
+
+            // Pass the response data
+            var responseDataInput = document.createElement("input");
+            responseDataInput.type = "hidden";
+            responseDataInput.name = "responseData";
+            responseDataInput.value = JSON.stringify(result.data);
+            form.appendChild(responseDataInput);
+
+            // Add CSRF protection token
+            var antiforgery = document.createElement("input");
+            antiforgery.type = "hidden";
+            antiforgery.name = "__RequestVerificationToken";
+            antiforgery.value = '@Antiforgery.GetAndStoreTokens(Context).RequestToken';
+            form.appendChild(antiforgery);
+
+            document.body.appendChild(form);
+            form.submit();
+        });
+
+        // Initialize SurveyJS form in container with id "surveyContainer"
+        $("#surveyContainer").Survey({ model: survey });
+
+
+
+    </script>
+}

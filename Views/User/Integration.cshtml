@@ -1,0 +1,36 @@
+﻿@model SalesforceIntegrationViewModel
+
+<h2>Интеграция с Salesforce</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+@section Scripts {
+
+}
+
+<form asp-action="Integration" method="post">
+    <div class="form-group">
+        <label for="FullName">Полное имя</label>
+        <input type="text" asp-for="FullName" class="form-control" id="FullName" readonly />
+    </div>
+    <div class="form-group">
+        <label for="Email">Email</label>
+        <input type="email" asp-for="Email" class="form-control" id="Email" readonly />
+    </div>
+    <div class="form-group">
+        <label for="FormsCount">Количество форм</label>
+        <input type="number" asp-for="FormsCount" class="form-control" id="FormsCount" readonly />
+    </div>
+    <div class="form-group">
+        <label for="FormNames">Названия форм</label>
+        <textarea asp-for="FormNames" class="form-control" id="FormNames" readonly>@string.Join(", ", Model.FormNames)</textarea>
+    </div>
+    <!-- Если хотите позволить пользователю редактировать имя аккаунта, можно сделать поле FullName редактируемым -->
+    <button type="submit" class="btn btn-primary">Отправить в Salesforce</button>
+</form>

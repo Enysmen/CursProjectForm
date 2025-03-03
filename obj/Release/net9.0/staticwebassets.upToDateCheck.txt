@@ -1,0 +1,1993 @@
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\finnish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\tajik.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\danish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\polish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\greek.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\bulgarian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hebrew.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\finnish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\romanian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\dutch.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-dark.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hungarian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\estonian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\norwegian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\package.json
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\turkish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\urdu.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\finnish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\persian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\greek.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\turkish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\basque.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\french.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\welsh.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\czech.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\css\site.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swahili.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\turkish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\mongolian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\thai.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\russian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\portuguese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\slovak.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swedish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\danish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\german.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\french.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.fontless.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\catalan.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-contrast.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\italian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\czech.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\persian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hungarian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\danish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\latvian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\japanese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\norwegian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\georgian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\polish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\indonesian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\mongolian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.slim.js
+E:\Task Intrasition\CursProject\wwwroot\js\Fillcshtml.js
+E:\Task Intrasition\CursProject\wwwroot\favicon.ico
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\french.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\malay.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swedish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\norwegian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.js
+E:\Task Intrasition\CursProject\wwwroot\js\Editcshtml.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\telugu.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\thai.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+E:\Task Intrasition\CursProject\wwwroot\css\templates.css
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-contrast.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\italian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\burmese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\swedish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\arabic.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\polish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swahili.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\burmese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\korean.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.fontless.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\slovak.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\malay.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.min.css
+E:\Task Intrasition\CursProject\wwwroot\js\TableUsers.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\czech.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\spanish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.min.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\basque.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.i18n.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.fontless.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\arabic.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\korean.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation\LICENSE.md
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\.package-lock.json
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV1.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\finnish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hebrew.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\macedonian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\malay.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\korean.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\macedonian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\philippines.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\german.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\korean.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.i18n.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.core.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.core.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\romanian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\japanese.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\bulgarian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\russian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\burmese.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\polish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\english.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\portuguese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hungarian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\malay.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\traditional-chinese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\swedish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\thai.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\dutch.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\malay.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hindi.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\burmese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\czech.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\german.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\mongolian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\polish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\korean.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.i18n.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation\dist\additional-methods.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\english.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\danish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\georgian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\italian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\arabic.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\italian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\turkish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\icelandic.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hebrew.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.css
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\thai.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\fonts.fontless.css
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\slovak.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\italian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\french.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\spanish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\icelandic.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\croatian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\english.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV2.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\romanian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.i18n.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\index.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.css
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\greek.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\norwegian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\finnish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\telugu.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\russian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\persian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\croatian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\arabic.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hungarian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swahili.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\arabic.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\french.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\dutch.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\burmese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\fonts.fontless.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\basque.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\italian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\spanish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\french.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\philippines.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\georgian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\portuguese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\japanese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\philippines.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\portuguese.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.core.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\danish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\index.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\thai.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\tajik.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\simplified-chinese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\tajik.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\indonesian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\croatian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\urdu.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\arabic.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\german.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\czech.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\arabic.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\romanian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\icelandic.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hebrew.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.fontless.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\hebrew.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\dutch.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\czech.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\romanian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\traditional-chinese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\croatian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\burmese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\persian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\japanese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-contrast.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\tajik.js
+E:\Task Intrasition\CursProject\wwwroot\js\site.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\dutch.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\spanish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\slovak.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\simplified-chinese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\english.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\czech.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\thai.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\spanish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\polish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.css
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\dutch.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.slim.min.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\finnish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\english.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.i18n.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\defaultV2.css
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\persian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\indonesian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\package.json
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\persian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\spanish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\catalan.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\slovak.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\korean.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-light.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\french.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\russian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\simplified-chinese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\indonesian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\german.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\danish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\kazakh.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\fonts.fontless.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\serbian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\index.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\indonesian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.fontless.css
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\bulgarian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\thai.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\croatian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\croatian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\bulgarian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hebrew.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark.js
+E:\Task Intrasition\CursProject\wwwroot\js\CreateFroms.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\malay.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\dutch.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\plain-light.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\macedonian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\norwegian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\danish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\japanese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\norwegian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.i18n.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV1.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\traditional-chinese.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\slovak.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\english.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hindi.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV2.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\norwegian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\turkish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\kazakh.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\estonian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\polish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\russian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\japanese.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\default-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\japanese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\croatian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV2.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hindi.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\german.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\italian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\tajik.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\spanish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\swedish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\tajik.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\urdu.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\traditional-chinese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\slovak.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\themes\default-contrast.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\kazakh.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hungarian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\simplified-chinese.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hungarian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\catalan.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\welsh.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\malay.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\burmese.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\korean.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\serbian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\solid-dark.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\latvian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\tajik.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\README.md
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\finnish.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\turkish.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hungarian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\indonesian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\survey-creator-core.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\swedish.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\german.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\swedish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\jquery\dist\jquery.slim.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\romanian.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\estonian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\mongolian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\README.md
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\indonesian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\telugu.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\latvian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\modern.fontless.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\turkish.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\icons\iconsV1.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\romanian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\russian.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\hebrew.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\welsh.js
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\persian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\survey.i18n.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\survey-creator-core\i18n\english.min.js.LICENSE.txt
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\serbian.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\i18n\russian.min.js
+E:\Task Intrasition\CursProject\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.js.map
+E:\Task Intrasition\CursProject\wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.js.map
+wwwroot\css\site.css
+wwwroot\css\templates.css
+wwwroot\favicon.ico
+wwwroot\js\CreateFroms.js
+wwwroot\js\Editcshtml.js
+wwwroot\js\Fillcshtml.js
+wwwroot\js\site.js
+wwwroot\js\TableUsers.js
+wwwroot\lib\.package-lock.json
+wwwroot\lib\bootstrap\dist\css\bootstrap.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+wwwroot\lib\bootstrap\LICENSE
+wwwroot\lib\jquery\dist\jquery.js
+wwwroot\lib\jquery\dist\jquery.min.js
+wwwroot\lib\jquery\dist\jquery.min.map
+wwwroot\lib\jquery\dist\jquery.slim.js
+wwwroot\lib\jquery\dist\jquery.slim.min.js
+wwwroot\lib\jquery\dist\jquery.slim.min.map
+wwwroot\lib\jquery\LICENSE.txt
+wwwroot\lib\jquery-validation\dist\additional-methods.js
+wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.js
+wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+wwwroot\lib\jquery-validation\LICENSE.md
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.js
+wwwroot\lib\jquery-validation-unobtrusive\dist\jquery.validate.unobtrusive.min.js
+wwwroot\lib\jquery-validation-unobtrusive\LICENSE.txt
+wwwroot\lib\survey-creator-core\4d86d1950ecdfb59807f.png
+wwwroot\lib\survey-creator-core\5dcaaadc5b1c048d6daa.png
+wwwroot\lib\survey-creator-core\5e87e454a7071a571216.png
+wwwroot\lib\survey-creator-core\a7b373b83d0c1e0262bd.png
+wwwroot\lib\survey-creator-core\cc27e2890751d1ea0380.png
+wwwroot\lib\survey-creator-core\e8dfbe2bdd7c9dca5efa.png
+wwwroot\lib\survey-creator-core\fonts.fontless.css
+wwwroot\lib\survey-creator-core\fonts.fontless.css.map
+wwwroot\lib\survey-creator-core\fonts.fontless.min.css
+wwwroot\lib\survey-creator-core\i18n\arabic.js
+wwwroot\lib\survey-creator-core\i18n\arabic.js.map
+wwwroot\lib\survey-creator-core\i18n\arabic.min.js
+wwwroot\lib\survey-creator-core\i18n\arabic.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\bulgarian.js
+wwwroot\lib\survey-creator-core\i18n\bulgarian.js.map
+wwwroot\lib\survey-creator-core\i18n\bulgarian.min.js
+wwwroot\lib\survey-creator-core\i18n\bulgarian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\burmese.js
+wwwroot\lib\survey-creator-core\i18n\burmese.js.map
+wwwroot\lib\survey-creator-core\i18n\burmese.min.js
+wwwroot\lib\survey-creator-core\i18n\burmese.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\croatian.js
+wwwroot\lib\survey-creator-core\i18n\croatian.js.map
+wwwroot\lib\survey-creator-core\i18n\croatian.min.js
+wwwroot\lib\survey-creator-core\i18n\croatian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\czech.js
+wwwroot\lib\survey-creator-core\i18n\czech.js.map
+wwwroot\lib\survey-creator-core\i18n\czech.min.js
+wwwroot\lib\survey-creator-core\i18n\czech.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\danish.js
+wwwroot\lib\survey-creator-core\i18n\danish.js.map
+wwwroot\lib\survey-creator-core\i18n\danish.min.js
+wwwroot\lib\survey-creator-core\i18n\danish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\dutch.js
+wwwroot\lib\survey-creator-core\i18n\dutch.js.map
+wwwroot\lib\survey-creator-core\i18n\dutch.min.js
+wwwroot\lib\survey-creator-core\i18n\dutch.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\english.js
+wwwroot\lib\survey-creator-core\i18n\english.js.map
+wwwroot\lib\survey-creator-core\i18n\english.min.js
+wwwroot\lib\survey-creator-core\i18n\english.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\finnish.js
+wwwroot\lib\survey-creator-core\i18n\finnish.js.map
+wwwroot\lib\survey-creator-core\i18n\finnish.min.js
+wwwroot\lib\survey-creator-core\i18n\finnish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\french.js
+wwwroot\lib\survey-creator-core\i18n\french.js.map
+wwwroot\lib\survey-creator-core\i18n\french.min.js
+wwwroot\lib\survey-creator-core\i18n\french.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\german.js
+wwwroot\lib\survey-creator-core\i18n\german.js.map
+wwwroot\lib\survey-creator-core\i18n\german.min.js
+wwwroot\lib\survey-creator-core\i18n\german.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\hebrew.js
+wwwroot\lib\survey-creator-core\i18n\hebrew.js.map
+wwwroot\lib\survey-creator-core\i18n\hebrew.min.js
+wwwroot\lib\survey-creator-core\i18n\hebrew.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\hungarian.js
+wwwroot\lib\survey-creator-core\i18n\hungarian.js.map
+wwwroot\lib\survey-creator-core\i18n\hungarian.min.js
+wwwroot\lib\survey-creator-core\i18n\hungarian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\index.js
+wwwroot\lib\survey-creator-core\i18n\index.js.map
+wwwroot\lib\survey-creator-core\i18n\index.min.js
+wwwroot\lib\survey-creator-core\i18n\index.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\indonesian.js
+wwwroot\lib\survey-creator-core\i18n\indonesian.js.map
+wwwroot\lib\survey-creator-core\i18n\indonesian.min.js
+wwwroot\lib\survey-creator-core\i18n\indonesian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\italian.js
+wwwroot\lib\survey-creator-core\i18n\italian.js.map
+wwwroot\lib\survey-creator-core\i18n\italian.min.js
+wwwroot\lib\survey-creator-core\i18n\italian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\japanese.js
+wwwroot\lib\survey-creator-core\i18n\japanese.js.map
+wwwroot\lib\survey-creator-core\i18n\japanese.min.js
+wwwroot\lib\survey-creator-core\i18n\japanese.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\korean.js
+wwwroot\lib\survey-creator-core\i18n\korean.js.map
+wwwroot\lib\survey-creator-core\i18n\korean.min.js
+wwwroot\lib\survey-creator-core\i18n\korean.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\malay.js
+wwwroot\lib\survey-creator-core\i18n\malay.js.map
+wwwroot\lib\survey-creator-core\i18n\malay.min.js
+wwwroot\lib\survey-creator-core\i18n\malay.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\mongolian.js
+wwwroot\lib\survey-creator-core\i18n\mongolian.js.map
+wwwroot\lib\survey-creator-core\i18n\mongolian.min.js
+wwwroot\lib\survey-creator-core\i18n\mongolian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\norwegian.js
+wwwroot\lib\survey-creator-core\i18n\norwegian.js.map
+wwwroot\lib\survey-creator-core\i18n\norwegian.min.js
+wwwroot\lib\survey-creator-core\i18n\norwegian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\persian.js
+wwwroot\lib\survey-creator-core\i18n\persian.js.map
+wwwroot\lib\survey-creator-core\i18n\persian.min.js
+wwwroot\lib\survey-creator-core\i18n\persian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\polish.js
+wwwroot\lib\survey-creator-core\i18n\polish.js.map
+wwwroot\lib\survey-creator-core\i18n\polish.min.js
+wwwroot\lib\survey-creator-core\i18n\polish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\portuguese.js
+wwwroot\lib\survey-creator-core\i18n\portuguese.js.map
+wwwroot\lib\survey-creator-core\i18n\portuguese.min.js
+wwwroot\lib\survey-creator-core\i18n\portuguese.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\romanian.js
+wwwroot\lib\survey-creator-core\i18n\romanian.js.map
+wwwroot\lib\survey-creator-core\i18n\romanian.min.js
+wwwroot\lib\survey-creator-core\i18n\romanian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\russian.js
+wwwroot\lib\survey-creator-core\i18n\russian.js.map
+wwwroot\lib\survey-creator-core\i18n\russian.min.js
+wwwroot\lib\survey-creator-core\i18n\russian.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\simplified-chinese.js
+wwwroot\lib\survey-creator-core\i18n\simplified-chinese.js.map
+wwwroot\lib\survey-creator-core\i18n\simplified-chinese.min.js
+wwwroot\lib\survey-creator-core\i18n\simplified-chinese.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\slovak.js
+wwwroot\lib\survey-creator-core\i18n\slovak.js.map
+wwwroot\lib\survey-creator-core\i18n\slovak.min.js
+wwwroot\lib\survey-creator-core\i18n\slovak.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\spanish.js
+wwwroot\lib\survey-creator-core\i18n\spanish.js.map
+wwwroot\lib\survey-creator-core\i18n\spanish.min.js
+wwwroot\lib\survey-creator-core\i18n\spanish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\swedish.js
+wwwroot\lib\survey-creator-core\i18n\swedish.js.map
+wwwroot\lib\survey-creator-core\i18n\swedish.min.js
+wwwroot\lib\survey-creator-core\i18n\swedish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\tajik.js
+wwwroot\lib\survey-creator-core\i18n\tajik.js.map
+wwwroot\lib\survey-creator-core\i18n\tajik.min.js
+wwwroot\lib\survey-creator-core\i18n\tajik.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\thai.js
+wwwroot\lib\survey-creator-core\i18n\thai.js.map
+wwwroot\lib\survey-creator-core\i18n\thai.min.js
+wwwroot\lib\survey-creator-core\i18n\thai.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\traditional-chinese.js
+wwwroot\lib\survey-creator-core\i18n\traditional-chinese.js.map
+wwwroot\lib\survey-creator-core\i18n\traditional-chinese.min.js
+wwwroot\lib\survey-creator-core\i18n\traditional-chinese.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\i18n\turkish.js
+wwwroot\lib\survey-creator-core\i18n\turkish.js.map
+wwwroot\lib\survey-creator-core\i18n\turkish.min.js
+wwwroot\lib\survey-creator-core\i18n\turkish.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\package.json
+wwwroot\lib\survey-creator-core\README.md
+wwwroot\lib\survey-creator-core\survey-creator-core.css
+wwwroot\lib\survey-creator-core\survey-creator-core.d.ts
+wwwroot\lib\survey-creator-core\survey-creator-core.fontless.css
+wwwroot\lib\survey-creator-core\survey-creator-core.fontless.css.map
+wwwroot\lib\survey-creator-core\survey-creator-core.fontless.min.css
+wwwroot\lib\survey-creator-core\survey-creator-core.i18n.js
+wwwroot\lib\survey-creator-core\survey-creator-core.i18n.js.map
+wwwroot\lib\survey-creator-core\survey-creator-core.i18n.min.js
+wwwroot\lib\survey-creator-core\survey-creator-core.i18n.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\survey-creator-core.js
+wwwroot\lib\survey-creator-core\survey-creator-core.js.map
+wwwroot\lib\survey-creator-core\survey-creator-core.min.css
+wwwroot\lib\survey-creator-core\survey-creator-core.min.js
+wwwroot\lib\survey-creator-core\survey-creator-core.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\themes\default-contrast.js
+wwwroot\lib\survey-creator-core\themes\default-contrast.js.map
+wwwroot\lib\survey-creator-core\themes\default-contrast.min.js
+wwwroot\lib\survey-creator-core\themes\default-contrast.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\themes\default-dark.js
+wwwroot\lib\survey-creator-core\themes\default-dark.js.map
+wwwroot\lib\survey-creator-core\themes\default-dark.min.js
+wwwroot\lib\survey-creator-core\themes\default-dark.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\themes\default-light.js
+wwwroot\lib\survey-creator-core\themes\default-light.js.map
+wwwroot\lib\survey-creator-core\themes\default-light.min.js
+wwwroot\lib\survey-creator-core\themes\default-light.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\themes\entries\helpers.d.ts
+wwwroot\lib\survey-creator-core\themes\index.js
+wwwroot\lib\survey-creator-core\themes\index.js.map
+wwwroot\lib\survey-creator-core\themes\index.min.js
+wwwroot\lib\survey-creator-core\themes\index.min.js.LICENSE.txt
+wwwroot\lib\survey-creator-core\themes\themes\default.d.ts
+wwwroot\lib\survey-creator-core\themes\themes\default-contrast.d.ts
+wwwroot\lib\survey-creator-core\themes\themes\default-dark.d.ts
+wwwroot\lib\survey-creator-core\themes\themes\default-light.d.ts
+wwwroot\lib\survey-creator-core\themes\themes\index.d.ts
+wwwroot\lib\survey-creator-core\themes\themes\utils.d.ts
+wwwroot\lib\survey-creator-core\typings\components\action-container-view-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\embedded-survey.d.ts
+wwwroot\lib\survey-creator-core\typings\components\header\logo-image.d.ts
+wwwroot\lib\survey-creator-core\typings\components\image-item-value.d.ts
+wwwroot\lib\survey-creator-core\typings\components\item-value.d.ts
+wwwroot\lib\survey-creator-core\typings\components\link-value.d.ts
+wwwroot\lib\survey-creator-core\typings\components\list-theme.d.ts
+wwwroot\lib\survey-creator-core\typings\components\matrix-cell.d.ts
+wwwroot\lib\survey-creator-core\typings\components\page.d.ts
+wwwroot\lib\survey-creator-core\typings\components\page-navigator\page-navigator.d.ts
+wwwroot\lib\survey-creator-core\typings\components\question.d.ts
+wwwroot\lib\survey-creator-core\typings\components\question-dropdown.d.ts
+wwwroot\lib\survey-creator-core\typings\components\question-image.d.ts
+wwwroot\lib\survey-creator-core\typings\components\question-rating.d.ts
+wwwroot\lib\survey-creator-core\typings\components\results.d.ts
+wwwroot\lib\survey-creator-core\typings\components\row.d.ts
+wwwroot\lib\survey-creator-core\typings\components\scroll.d.ts
+wwwroot\lib\survey-creator-core\typings\components\search-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\components\side-bar\side-bar-header-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\side-bar\side-bar-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\side-bar\side-bar-page-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\side-bar\side-bar-tab-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\side-bar\tab-control-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\simulator.d.ts
+wwwroot\lib\survey-creator-core\typings\components\string-editor.d.ts
+wwwroot\lib\survey-creator-core\typings\components\switcher\switcher.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\designer.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\designer-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\designer-state-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\embed.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\embed-json.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\header-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\json-editor-ace.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\json-editor-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\json-editor-textarea.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-actions-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-expression.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-item-editor.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-items.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-theme.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-types.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\logic-ui.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\preview.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\test.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\test-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-builder.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\background-corner-radius.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\boxshadow-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\color-alpha.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\color-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\element-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\font-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\index.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-custom-questions\shadow-effects.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-model.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-model-definition.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\theme-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\themes.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\translation.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\translation-plugin.d.ts
+wwwroot\lib\survey-creator-core\typings\components\tabs\translation-theme.d.ts
+wwwroot\lib\survey-creator-core\typings\components\toolbox\toolbox-search-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\components\toolbox\toolbox-tool.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-base.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-events-api.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-options.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-responsivity-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-theme\creator-theme-model.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-theme\creator-theme-model-definition.d.ts
+wwwroot\lib\survey-creator-core\typings\creator-theme\creator-themes.d.ts
+wwwroot\lib\survey-creator-core\typings\custom-questions\question-color.d.ts
+wwwroot\lib\survey-creator-core\typings\custom-questions\question-file.d.ts
+wwwroot\lib\survey-creator-core\typings\custom-questions\question-spin-editor.d.ts
+wwwroot\lib\survey-creator-core\typings\custom-questions\question-text-with-reset.d.ts
+wwwroot\lib\survey-creator-core\typings\designTabSurveyThemeJSON.d.ts
+wwwroot\lib\survey-creator-core\typings\editable-object.d.ts
+wwwroot\lib\survey-creator-core\typings\editorLocalization.d.ts
+wwwroot\lib\survey-creator-core\typings\entries\helpers.d.ts
+wwwroot\lib\survey-creator-core\typings\entries\index.d.ts
+wwwroot\lib\survey-creator-core\typings\expand-collapse-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\expressionToDisplayText.d.ts
+wwwroot\lib\survey-creator-core\typings\json5.d.ts
+wwwroot\lib\survey-creator-core\typings\localization\english.d.ts
+wwwroot\lib\survey-creator-core\typings\pages-controller.d.ts
+wwwroot\lib\survey-creator-core\typings\plugins\undo-redo\index.d.ts
+wwwroot\lib\survey-creator-core\typings\plugins\undo-redo\undo-redo-controller.d.ts
+wwwroot\lib\survey-creator-core\typings\plugins\undo-redo\undo-redo-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets-base.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets-languages.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets-properties.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets-tabs.d.ts
+wwwroot\lib\survey-creator-core\typings\presets\presets-toolbox.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\bindings.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\cells-survey.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\condition.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\condition-survey.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\description-parser.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\fast-entry.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\header-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\icons.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\index.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\maskSettings.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\matrices.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\object-selector.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\property-grid-view-model.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\restfull.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\search-manager.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\theme-settings.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\values.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid\values-survey.d.ts
+wwwroot\lib\survey-creator-core\typings\property-grid-theme\property-grid.d.ts
+wwwroot\lib\survey-creator-core\typings\questionconverter.d.ts
+wwwroot\lib\survey-creator-core\typings\question-editor\definition.d.ts
+wwwroot\lib\survey-creator-core\typings\question-editor\properties.d.ts
+wwwroot\lib\survey-creator-core\typings\selection-history.d.ts
+wwwroot\lib\survey-creator-core\typings\selection-owner.d.ts
+wwwroot\lib\survey-creator-core\typings\survey-elements.d.ts
+wwwroot\lib\survey-creator-core\typings\survey-elements-dnd.d.ts
+wwwroot\lib\survey-creator-core\typings\survey-helper.d.ts
+wwwroot\lib\survey-creator-core\typings\svgbundle.d.ts
+wwwroot\lib\survey-creator-core\typings\tabbed-menu.d.ts
+wwwroot\lib\survey-creator-core\typings\textWorker.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\default.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\default-contrast.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\default-dark.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\default-light.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\index.d.ts
+wwwroot\lib\survey-creator-core\typings\themes\utils.d.ts
+wwwroot\lib\survey-creator-core\typings\toolbox.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\actions.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\color-utils.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\creator-utils.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\events.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\html-element-utils.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\resizer.d.ts
+wwwroot\lib\survey-creator-core\typings\utils\utils.d.ts
+wwwroot\lib\surveyjs\survey-core\defaultV2.css
+wwwroot\lib\surveyjs\survey-core\defaultV2.css.map
+wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.css
+wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.css.map
+wwwroot\lib\surveyjs\survey-core\defaultV2.fontless.min.css
+wwwroot\lib\surveyjs\survey-core\defaultV2.min.css
+wwwroot\lib\surveyjs\survey-core\i18n\arabic.js
+wwwroot\lib\surveyjs\survey-core\i18n\arabic.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\arabic.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\basque.js
+wwwroot\lib\surveyjs\survey-core\i18n\basque.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\basque.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.js
+wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\bulgarian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\burmese.js
+wwwroot\lib\surveyjs\survey-core\i18n\burmese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\burmese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\catalan.js
+wwwroot\lib\surveyjs\survey-core\i18n\catalan.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\catalan.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\croatian.js
+wwwroot\lib\surveyjs\survey-core\i18n\croatian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\croatian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\czech.js
+wwwroot\lib\surveyjs\survey-core\i18n\czech.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\czech.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\danish.js
+wwwroot\lib\surveyjs\survey-core\i18n\danish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\danish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\dutch.js
+wwwroot\lib\surveyjs\survey-core\i18n\dutch.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\dutch.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\english.js
+wwwroot\lib\surveyjs\survey-core\i18n\english.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\english.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\estonian.js
+wwwroot\lib\surveyjs\survey-core\i18n\estonian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\estonian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\finnish.js
+wwwroot\lib\surveyjs\survey-core\i18n\finnish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\finnish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\french.js
+wwwroot\lib\surveyjs\survey-core\i18n\french.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\french.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\georgian.js
+wwwroot\lib\surveyjs\survey-core\i18n\georgian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\georgian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\german.js
+wwwroot\lib\surveyjs\survey-core\i18n\german.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\german.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\greek.js
+wwwroot\lib\surveyjs\survey-core\i18n\greek.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\greek.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\hebrew.js
+wwwroot\lib\surveyjs\survey-core\i18n\hebrew.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\hebrew.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\hindi.js
+wwwroot\lib\surveyjs\survey-core\i18n\hindi.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\hindi.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\hungarian.js
+wwwroot\lib\surveyjs\survey-core\i18n\hungarian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\hungarian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\icelandic.js
+wwwroot\lib\surveyjs\survey-core\i18n\icelandic.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\icelandic.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\index.js
+wwwroot\lib\surveyjs\survey-core\i18n\index.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\index.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\indonesian.js
+wwwroot\lib\surveyjs\survey-core\i18n\indonesian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\indonesian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\italian.js
+wwwroot\lib\surveyjs\survey-core\i18n\italian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\italian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\japanese.js
+wwwroot\lib\surveyjs\survey-core\i18n\japanese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\japanese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\kazakh.js
+wwwroot\lib\surveyjs\survey-core\i18n\kazakh.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\kazakh.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\korean.js
+wwwroot\lib\surveyjs\survey-core\i18n\korean.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\korean.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\latvian.js
+wwwroot\lib\surveyjs\survey-core\i18n\latvian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\latvian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.js
+wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\lithuanian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\macedonian.js
+wwwroot\lib\surveyjs\survey-core\i18n\macedonian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\macedonian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\malay.js
+wwwroot\lib\surveyjs\survey-core\i18n\malay.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\malay.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.js
+wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\nl-BE.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\norwegian.js
+wwwroot\lib\surveyjs\survey-core\i18n\norwegian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\norwegian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\persian.js
+wwwroot\lib\surveyjs\survey-core\i18n\persian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\persian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\philippines.js
+wwwroot\lib\surveyjs\survey-core\i18n\philippines.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\philippines.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\polish.js
+wwwroot\lib\surveyjs\survey-core\i18n\polish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\polish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese.js
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.js
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\portuguese-br.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\romanian.js
+wwwroot\lib\surveyjs\survey-core\i18n\romanian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\romanian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\russian.js
+wwwroot\lib\surveyjs\survey-core\i18n\russian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\russian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\serbian.js
+wwwroot\lib\surveyjs\survey-core\i18n\serbian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\serbian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.js
+wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\simplified-chinese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\slovak.js
+wwwroot\lib\surveyjs\survey-core\i18n\slovak.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\slovak.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\spanish.js
+wwwroot\lib\surveyjs\survey-core\i18n\spanish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\spanish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\swahili.js
+wwwroot\lib\surveyjs\survey-core\i18n\swahili.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\swahili.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\swedish.js
+wwwroot\lib\surveyjs\survey-core\i18n\swedish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\swedish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\tajik.js
+wwwroot\lib\surveyjs\survey-core\i18n\tajik.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\tajik.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\telugu.js
+wwwroot\lib\surveyjs\survey-core\i18n\telugu.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\telugu.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\thai.js
+wwwroot\lib\surveyjs\survey-core\i18n\thai.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\thai.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.js
+wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\traditional-chinese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\turkish.js
+wwwroot\lib\surveyjs\survey-core\i18n\turkish.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\turkish.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.js
+wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\ukrainian.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\urdu.js
+wwwroot\lib\surveyjs\survey-core\i18n\urdu.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\urdu.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.js
+wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\vietnamese.min.js
+wwwroot\lib\surveyjs\survey-core\i18n\welsh.js
+wwwroot\lib\surveyjs\survey-core\i18n\welsh.js.map
+wwwroot\lib\surveyjs\survey-core\i18n\welsh.min.js
+wwwroot\lib\surveyjs\survey-core\icons\iconsV1.d.ts
+wwwroot\lib\surveyjs\survey-core\icons\iconsV1.js
+wwwroot\lib\surveyjs\survey-core\icons\iconsV1.js.map
+wwwroot\lib\surveyjs\survey-core\icons\iconsV1.min.js
+wwwroot\lib\surveyjs\survey-core\icons\iconsV2.d.ts
+wwwroot\lib\surveyjs\survey-core\icons\iconsV2.js
+wwwroot\lib\surveyjs\survey-core\icons\iconsV2.js.map
+wwwroot\lib\surveyjs\survey-core\icons\iconsV2.min.js
+wwwroot\lib\surveyjs\survey-core\modern.css
+wwwroot\lib\surveyjs\survey-core\modern.css.map
+wwwroot\lib\surveyjs\survey-core\modern.fontless.css
+wwwroot\lib\surveyjs\survey-core\modern.fontless.css.map
+wwwroot\lib\surveyjs\survey-core\modern.fontless.min.css
+wwwroot\lib\surveyjs\survey-core\modern.min.css
+wwwroot\lib\surveyjs\survey-core\package.json
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.js.map
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration.min.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\cssbootstrap.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.js.map
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\index.min.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-integration\theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.js.map
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration.min.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\cssbootstrapmaterial.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.js.map
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\index.min.js
+wwwroot\lib\surveyjs\survey-core\plugins\bootstrap-material-integration\theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\common-theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrap\cssbootstrap.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrap\index.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrap\theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrapmaterial\cssbootstrapmaterial.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrapmaterial\index.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\bootstrapmaterial\theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\plugins\typings\common-theme-settings.d.ts
+wwwroot\lib\surveyjs\survey-core\README.md
+wwwroot\lib\surveyjs\survey-core\survey.core.d.ts
+wwwroot\lib\surveyjs\survey-core\survey.core.js
+wwwroot\lib\surveyjs\survey-core\survey.core.js.map
+wwwroot\lib\surveyjs\survey-core\survey.core.min.js
+wwwroot\lib\surveyjs\survey-core\survey.css
+wwwroot\lib\surveyjs\survey-core\survey.css.map
+wwwroot\lib\surveyjs\survey-core\survey.i18n.d.ts
+wwwroot\lib\surveyjs\survey-core\survey.i18n.js
+wwwroot\lib\surveyjs\survey-core\survey.i18n.js.map
+wwwroot\lib\surveyjs\survey-core\survey.i18n.min.js
+wwwroot\lib\surveyjs\survey-core\survey.min.css
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\borderless-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..js.map
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless..min.js
+wwwroot\lib\surveyjs\survey-core\themes\borderless-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\contrast-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\contrast-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\default-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\default-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\default-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\default-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\default-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\default-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\default-light.js
+wwwroot\lib\surveyjs\survey-core\themes\default-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\default-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\default-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.js.map
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelles.min.js
+wwwroot\lib\surveyjs\survey-core\themes\doubleborder-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\flat-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\flat-light.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\flat-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\flat-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\index.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\index.js
+wwwroot\lib\surveyjs\survey-core\themes\index.js.map
+wwwroot\lib\surveyjs\survey-core\themes\index.min.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\layered-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\layered-light.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\layered-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\layered-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\plain-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\plain-light.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\plain-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\plain-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\sharp-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\sharp-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\solid-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\solid-light.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\solid-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\solid-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\threedimensional-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.js
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.js.map
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark.min.js
+wwwroot\lib\surveyjs\survey-core\themes\threedimensional-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-dark-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\threedimensional-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.js
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.js.map
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light.min.js
+wwwroot\lib\surveyjs\survey-core\themes\threedimensional-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.js
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.js.map
+wwwroot\lib\surveyjs\survey-core\themes\three-dimensional-light-panelless.min.js
+wwwroot\lib\surveyjs\survey-core\themes\typings\borderless-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\borderless-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\borderless-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\borderless-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\contrast-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\contrast-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\contrast-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\contrast-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\default-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\default-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\default-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\default-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\doubleborder-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\doubleborder-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\doubleborder-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\doubleborder-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\flat-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\flat-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\flat-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\flat-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\index.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\layered-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\layered-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\layered-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\layered-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\plain-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\plain-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\plain-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\plain-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\sharp-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\sharp-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\sharp-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\sharp-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\solid-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\solid-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\solid-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\solid-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\threedimensional-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\threedimensional-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\threedimensional-light.d.ts
+wwwroot\lib\surveyjs\survey-core\themes\typings\threedimensional-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\icons\iconsV1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\icons\iconsV2.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\survey.core.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\borderless-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\borderless-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\borderless-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\borderless-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\contrast-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\contrast-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\contrast-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\contrast-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\default-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\default-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\default-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\default-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\doubleborder-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\doubleborder-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\doubleborder-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\doubleborder-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\flat-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\flat-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\flat-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\flat-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\index.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\layered-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\layered-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\layered-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\layered-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\plain-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\plain-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\plain-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\plain-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\sharp-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\sharp-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\sharp-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\sharp-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\solid-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\solid-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\solid-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\solid-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\threedimensional-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\threedimensional-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\threedimensional-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\threedimensional-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\borderless-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\borderless-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\borderless-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\borderless-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\contrast-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\contrast-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\contrast-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\contrast-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\default-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\default-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\default-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\default-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\doubleborder-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\doubleborder-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\doubleborder-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\doubleborder-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\flat-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\flat-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\flat-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\flat-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\index.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\layered-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\layered-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\layered-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\layered-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\plain-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\plain-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\plain-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\plain-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\sharp-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\sharp-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\sharp-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\sharp-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\solid-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\solid-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\solid-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\solid-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\threedimensional-dark.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\threedimensional-dark-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\threedimensional-light.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\themes\typings\threedimensional-light-panelless.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\actions\action.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\actions\adaptive-container.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\actions\container.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\base.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\base-interfaces.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\calculatedValue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\choicesRestful.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\conditionProcessValue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\conditions.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\conditionsParser.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\console-warnings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\cover.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\defaultCss\cssmodern.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\defaultCss\cssstandard.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\defaultCss\defaultV2Css.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\defaultTitle.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\choices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\core.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\dom-adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\engine.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\matrix-rows.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\ranking-choices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\ranking-select-to-rank.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dragdrop\survey-elements.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\drag-drop-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\drag-drop-page-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\drag-drop-panel-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dropdownListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dropdownMultiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\dxSurveyService.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\element-helper.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\entries\core.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\entries\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\error.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\expressionItems.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\expressions\expressionParser.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\expressions\expressions.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\flowpanel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\functionsfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\global_variables_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\header.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\helpers.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\itemvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\jsonobject.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\knockout\kobase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\knockout\kopage.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\list.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\localizablestring.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\localization\english.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\martixBase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\input_element_adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_base.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_currency.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_datetime.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_numeric.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_pattern.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\mask\mask_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\multiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\notifier.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\entries\chunks\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\actions\action.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\actions\adaptive-container.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\actions\container.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\base.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\base-interfaces.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\calculatedValue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\choicesRestful.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\conditionProcessValue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\conditions.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\conditionsParser.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\console-warnings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\defaultCss\defaultV2Css.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\defaultTitle.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\choices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\core.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\dom-adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\engine.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\matrix-rows.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\ranking-choices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dragdrop\ranking-select-to-rank.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\drag-drop-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\drag-drop-page-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\drag-drop-panel-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dropdownListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dropdownMultiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\dxSurveyService.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\element-helper.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\error.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\expressionItems.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\expressions\expressionParser.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\expressions\expressions.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\flowpanel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\functionsfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\global_variables_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\header.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\helpers.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\itemvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\jsonobject.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\list.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\localizablestring.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\localization\english.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\martixBase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\input_element_adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_base.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_currency.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_datetime.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_numeric.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_pattern.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\mask\mask_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\multiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\notifier.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\page.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\panel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\panel-layout-column.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup-dropdown-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup-modal-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup-survey.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup-utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\popup-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\progress-buttons.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_baseselect.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_boolean.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_buttongroup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_checkbox.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_comment.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_custom.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_dropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_empty.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_expression.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_file.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_html.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_image.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_imagepicker.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrix.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrixdropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrixdropdownbase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrixdropdowncolumn.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrixdropdownrendered.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_matrixdynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_multipletext.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_paneldynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_radiogroup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_ranking.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_rating.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_signaturepad.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_tagbox.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_text.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\question_textbase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\questionCustomWidgets.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\questionfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\questionnonvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\rendererFactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\settings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\survey.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\survey-element.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\survey-error.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\survey-events-api.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveyProgress.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveyStrings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveyTaskManager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveytimer.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveyTimerModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\surveyToc.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\svgbundle.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\template-renderer.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\textPreProcessor.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\themes.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\trigger.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\animation.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\camera.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\cssClassBuilder.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\devices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\dragOrClickHelper.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\responsivity-manager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\taskmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\text-area.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\utils\utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\packages\survey-core\src\validator.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\page.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\panel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\panel-layout-column.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup-dropdown-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup-modal-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup-survey.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup-utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\popup-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\progress-buttons.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_baseselect.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_boolean.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_buttongroup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_checkbox.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_comment.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_custom.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_dropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_empty.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_expression.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_file.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_html.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_image.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_imagepicker.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrix.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrixdropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrixdropdownbase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrixdropdowncolumn.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrixdropdownrendered.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_matrixdynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_multipletext.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_paneldynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_radiogroup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_ranking.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_rating.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_signaturepad.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_tagbox.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_text.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\question_textbase.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\questionCustomWidgets.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\questionfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\questionnonvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\rendererFactory.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\settings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\defaultCss\cssmodern.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\defaultCss\cssstandard.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\entries\core.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\entries\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\src\stylesmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\stylesmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\survey.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\survey-element.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\survey-error.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\survey-events-api.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyProgress.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyProgressButtons.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyStrings.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyTaskManager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveytimer.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyTimerModel.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\surveyToc.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\svgbundle.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\template-renderer.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\textPreProcessor.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\themes.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\trigger.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\animation.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\camera.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\cssClassBuilder.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\devices.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\dragOrClickHelper.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\responsivity-manager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\taskmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\tooltip.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\utils\utils.d.ts
+wwwroot\lib\surveyjs\survey-core\ts3.4\typings\validator.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\actions\action.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\actions\adaptive-container.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\actions\container.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\base.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\base-interfaces.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\calculatedValue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\choicesRestful.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\conditionProcessValue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\conditions.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\conditionsParser.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\console-warnings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\cover.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\defaultCss\cssmodern.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\defaultCss\cssstandard.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\defaultCss\defaultV2Css.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\defaultTitle.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\choices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\core.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\dom-adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\engine.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\matrix-rows.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\ranking-choices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\ranking-select-to-rank.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dragdrop\survey-elements.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\drag-drop-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\drag-drop-page-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\drag-drop-panel-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dropdownListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dropdownMultiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\dxSurveyService.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\element-helper.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\entries\core.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\entries\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\error.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\expressionItems.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\expressions\expressionParser.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\expressions\expressions.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\flowpanel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\functionsfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\global_variables_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\header.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\helpers.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\itemvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\jsonobject.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\knockout\kobase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\knockout\kopage.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\list.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\localizablestring.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\localization\english.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\martixBase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\input_element_adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_base.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_currency.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_datetime.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_numeric.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_pattern.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\mask\mask_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\multiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\notifier.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\entries\chunks\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\actions\action.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\actions\adaptive-container.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\actions\container.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\base.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\base-interfaces.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\calculatedValue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\choicesRestful.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\conditionProcessValue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\conditions.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\conditionsParser.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\console-warnings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\defaultCss\defaultV2Css.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\defaultTitle.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\choices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\core.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\dom-adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\engine.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\matrix-rows.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\ranking-choices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dragdrop\ranking-select-to-rank.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\drag-drop-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\drag-drop-page-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\drag-drop-panel-helper-v1.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dropdownListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dropdownMultiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\dxSurveyService.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\element-helper.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\error.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\expressionItems.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\expressions\expressionParser.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\expressions\expressions.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\flowpanel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\functionsfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\global_variables_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\header.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\helpers.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\itemvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\jsonobject.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\list.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\localizablestring.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\localization\english.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\martixBase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\input_element_adapter.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_base.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_currency.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_datetime.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_numeric.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_pattern.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\mask\mask_utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\multiSelectListModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\notifier.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\page.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\panel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\panel-layout-column.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup-dropdown-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup-modal-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup-survey.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup-utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\popup-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\progress-buttons.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_baseselect.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_boolean.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_buttongroup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_checkbox.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_comment.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_custom.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_dropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_empty.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_expression.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_file.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_html.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_image.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_imagepicker.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrix.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrixdropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrixdropdownbase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrixdropdowncolumn.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrixdropdownrendered.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_matrixdynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_multipletext.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_paneldynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_radiogroup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_ranking.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_rating.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_signaturepad.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_tagbox.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_text.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\question_textbase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\questionCustomWidgets.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\questionfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\questionnonvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\rendererFactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\settings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\survey.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\survey-element.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\survey-error.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\survey-events-api.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveyProgress.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveyStrings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveyTaskManager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveytimer.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveyTimerModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\surveyToc.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\svgbundle.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\template-renderer.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\textPreProcessor.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\themes.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\trigger.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\animation.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\camera.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\cssClassBuilder.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\devices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\dragOrClickHelper.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\responsivity-manager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\taskmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\text-area.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\utils\utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\packages\survey-core\src\validator.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\page.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\panel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\panel-layout-column.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup-dropdown-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup-modal-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup-survey.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup-utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\popup-view-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\progress-buttons.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_baseselect.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_boolean.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_buttongroup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_checkbox.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_comment.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_custom.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_dropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_empty.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_expression.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_file.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_html.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_image.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_imagepicker.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrix.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrixdropdown.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrixdropdownbase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrixdropdowncolumn.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrixdropdownrendered.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_matrixdynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_multipletext.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_paneldynamic.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_radiogroup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_ranking.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_rating.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_signaturepad.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_tagbox.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_text.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\question_textbase.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\questionCustomWidgets.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\questionfactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\questionnonvalue.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\rendererFactory.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\settings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\defaultCss\cssmodern.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\defaultCss\cssstandard.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\entries\chunks\model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\entries\core.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\entries\core-wo-model.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\src\stylesmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\stylesmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\survey.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\survey-element.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\survey-error.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\survey-events-api.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyProgress.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyProgressButtons.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyStrings.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyTaskManager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveytimer.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyTimerModel.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\surveyToc.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\svgbundle.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\template-renderer.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\textPreProcessor.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\themes.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\trigger.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\animation.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\camera.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\cssClassBuilder.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\devices.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\dragOrClickHelper.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\popup.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\responsivity-manager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\taskmanager.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\tooltip.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\utils\utils.d.ts
+wwwroot\lib\surveyjs\survey-core\typings\validator.d.ts

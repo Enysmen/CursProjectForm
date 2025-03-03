@@ -1,0 +1,19 @@
+﻿.create-template-card {
+    cursor: pointer;
+    border: 2px dashed #ccc;
+    padding: 20px;
+    transition: background 0.3s;
+}
+
+    .create-template-card:hover {
+        background: #f8f9fa;
+    }
+
+.template-card {
+    cursor: pointer;
+    transition: transform 0.2s;
+}
+
+    .template-card:hover {
+        transform: scale(1.05);
+    }
