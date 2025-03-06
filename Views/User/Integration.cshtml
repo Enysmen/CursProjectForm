@@ -1,0 +1,55 @@
+﻿@model SalesforceIntegrationViewModel
+@using CursProject.Resources
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IHtmlLocalizer<SharedResource> Localizer
+
+<h2>Интеграция с Salesforce</h2>
+
+@if (TempData["Message"] != null)
+{
+    <div class="alert alert-success">@TempData["Message"]</div>
+}
+@if (TempData["Error"] != null)
+{
+    <div class="alert alert-danger">@TempData["Error"]</div>
+}
+
+<form asp-action="CreateAccountAndContact" method="post">
+    <h3>@Localizer["Data for Account (company)"]</h3>
+    <div class="form-group">
+        <label for="FullName">@Localizer["Company Name (Account Name)"]</label>
+        <input asp-for="FullName" class="form-control" id="FullName" placeholder="@Localizer["Enter the company name"]" />
+        <span asp-validation-for="FullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label for="Email">@Localizer["Company Email (Email__c)"]</label>
+        <input asp-for="Email" class="form-control" id="Email" placeholder="@Localizer["Enter the company email"]" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+
+    <h3>@Localizer["Data for Contact"]</h3>
+    <div class="form-group">
+        <label asp-for="ContactFullName">@Localizer["Contact Name"] </label>
+        <input asp-for="ContactFullName" class="form-control" placeholder="@Localizer["Enter contact name"]" />
+        <span asp-validation-for="ContactFullName" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ContactEmail">@Localizer["Contact email"]</label>
+        <input asp-for="ContactEmail" class="form-control" placeholder="@Localizer["Enter contact email"]" />
+        <span asp-validation-for="ContactEmail" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="ContactPhone">@Localizer["Contact phone number"]</label>
+        <input asp-for="ContactPhone" class="form-control" placeholder="@Localizer["Enter contact phone number"]" />
+    </div>
+    <div class="form-group">
+        <label asp-for="ContactTitle">@Localizer["Job title"]</label>
+        <input asp-for="ContactTitle" class="form-control" placeholder="@Localizer["Enter the contact's job title"]" />
+    </div>
+    <button type="submit" class="btn btn-primary">@Localizer["Create Account and Contact"]</button>
+    <a asp-controller="User" asp-action="EditIntegration" class="btn btn-secondary ml-2">@Localizer["Edit data"] </a>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

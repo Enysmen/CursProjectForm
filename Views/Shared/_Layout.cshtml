@@ -1,0 +1,293 @@
+﻿@using CursProject.Models
+@using CursProject.Resources
+@using Microsoft.AspNetCore.Identity
+@using System.Globalization
+@using Microsoft.AspNetCore.Localization
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@inject IHtmlLocalizer<SharedResource> Localizer
+@inject UserManager<ApplicationUser> UserManager
+@{
+    string themePreference = "light";
+    if (User.Identity.IsAuthenticated)
+    {
+        var user = await UserManager.GetUserAsync(User);
+        themePreference = user?.ThemePreference ?? "light";
+    }
+}
+
+@{
+    // Get the language preference of the current user (if logged in)
+
+    var rqf = Context.Features.Get<IRequestCultureFeature>();
+    var currentCulture = rqf?.RequestCulture.Culture.Name ?? "en";
+    var currentLanguage = currentCulture;
+
+    if (User.Identity.IsAuthenticated)
+    {
+        var user = await UserManager.GetUserAsync(User);
+        if (user != null && !string.IsNullOrEmpty(user.LanguagePreference))
+        {
+            currentLanguage = user.LanguagePreference;
+        }
+    }
+
+}
+
+<!DOCTYPE html>
+<html lang="@currentLanguage" data-bs-theme="@themePreference">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="csrf-token" content="@Antiforgery.GetAndStoreTokens(Context).RequestToken" />
+    <title>@ViewData["Title"] - CursProject</title>
+    <script type="importmap"></script>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link href="https://unpkg.com/survey-creator-core/survey-creator-core.min.css" rel="stylesheet">
+    <link href="https://unpkg.com/survey-core/defaultV2.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-toggleable-sm navbar-light bg-white border-bottom box-shadow mb-3" id="mainNavbar">
+            <div class="container-fluid">
+                <button class="btn  mx-sm-1" id="menuToggle" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasMenu" aria-controls="offcanvasMenu">
+                    <span class="navbar-toggler-icon">
+
+                    </span>
+                </button>
+                <a class="navbar-brand" asp-area="" asp-controller="SurveyTemplate" asp-action="Index">CursProject</a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-collapse" aria-controls="navbarSupportedContent"
+                aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+                    <ul class="navbar-nav flex-grow-0">
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="SurveyTemplate" asp-action="Index">@Localizer["Home"]</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link " asp-area="" asp-controller="Home" asp-action="Privacy">@Localizer["Privacy"]</a>
+                        </li>
+                    </ul>
+                    <div class="w-25">
+                        <input class="form-control me-sm-5" type="search" placeholder="Search" aria-label="Search" />
+                    </div>
+
+                    <partial name="_LoginPartial" />
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasMenu" aria-labelledby="offcanvasMenuLabel">
+        <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="offcanvasMenuLabel">@Localizer["Menu"]</h5>
+            <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+        </div>
+        <div class="offcanvas-body">
+            <ul class="nav flex-column">
+                @if (User.Identity.IsAuthenticated || User.IsInRole("Administrator"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="User" asp-action="Index">@Localizer["Personal page"]</a>
+                    </li>
+                }
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="" asp-controller="Home" asp-action="Privacy">@Localizer["Privacy"]</a>
+                </li>
+                <!-- Link to admin page, visible only to admins -->
+                @if (User.IsInRole("Administrator"))
+                {
+                    <li class="nav-item">
+                        <a class="nav-link" asp-area="" asp-controller="Admin" asp-action="Index">@Localizer["Administration"]</a>
+                    </li>
+                }
+                <!-- Theme switcher block (e.g. in menu) -->
+                <div class="d-flex align-items-center mt-3">
+                    <span class="me-2" id="themeText">@Localizer["Change Mode Light"]</span>
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" id="themeToggle">
+                        <label class="form-check-label" for="themeToggle">@Localizer["On/Off"]</label>
+                    </div>
+                </div>
+
+
+
+                <div class="d-flex align-items-center mt-3">
+                    <span class="me-2" id="languageText">@Localizer["Language:"] @(currentLanguage == "ru" ? "Русский" : "English")</span>
+                    <select id="languageSelect" class="form-select form-select-sm">
+                        @if (currentLanguage == "en")
+                        {
+                            <option value="en" selected>English</option>
+                            <option value="ru">Русский</option>
+                        }
+                        else
+                        {
+                            <option value="en">English</option>
+                            <option value="ru" selected>Русский</option>
+                        }
+                    </select>
+                </div>
+               
+            </ul>
+        </div>
+    </div>
+
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2025 - CursProject - <a asp-area="" asp-controller="Home" asp-action="Privacy">@Localizer["Privacy"]</a>
+        </div>
+    </footer>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    @await RenderSectionAsync("Scripts", required: true)
+
+
+    <script>
+
+           document.addEventListener("DOMContentLoaded", function () {
+            var theme = '@themePreference'; // value from ViewBag
+            localStorage.setItem("theme", theme);
+        });
+
+        function setTheme(theme) {
+            // Set the data-bs-theme attribute to <html>
+            document.documentElement.setAttribute("data-bs-theme", theme);
+
+            // changing classes for navbar (if necessary)
+            var navbar = document.getElementById("mainNavbar");
+            if (navbar) {
+                if (theme === "dark") {
+                    navbar.classList.remove("navbar-light", "bg-white");
+                    navbar.classList.add("navbar-dark", "bg-dark");
+                } else {
+                    navbar.classList.remove("navbar-dark", "bg-dark");
+                    navbar.classList.add("navbar-light", "bg-white");
+                }
+            }
+
+            // Store the topic value in localStorage
+            localStorage.setItem("theme", theme);
+            // Update the switch text
+            var themeText = document.getElementById("themeText");
+            if (themeText) {
+                themeText.textContent = theme === "dark" ? "Change Mode Dark" : "Change Mode Light";
+            }
+        }
+
+        document.addEventListener("DOMContentLoaded", function () {
+            var storedTheme = localStorage.getItem("theme") || "light";
+            setTheme(storedTheme);
+
+            var themeToggle = document.getElementById("themeToggle");
+            if (themeToggle) {
+                themeToggle.checked = (storedTheme === "dark");
+                themeToggle.addEventListener("change", function () {
+                    var newTheme = this.checked ? "dark" : "light";
+                    setTheme(newTheme);
+
+                    var isAuthenticated = '@User.Identity.IsAuthenticated'.toLowerCase();
+                    console.log("IsAuthenticated value: " + isAuthenticated);
+
+                    // If the user is authorized, send an AJAX request to update the preference in the database
+                    if (isAuthenticated === "true") {
+                            $.ajax({
+                                url: '@Url.Action("UpdateThemePreference", "User")',
+                                type: 'POST',
+                                data: {
+                                    theme: newTheme,
+                                    __RequestVerificationToken: $('meta[name="csrf-token"]').attr('content')
+                                },
+                                success: function (response) {
+                                    console.log('@Localizer["Theme preference updated."]');
+                                },
+                                error: function (xhr, status, error) {
+                                    console.error('@Localizer["Error updating theme preference:"]'  + error);
+                                }
+                            });
+                    }
+                });
+            }
+        });
+    </script>
+
+    <script>
+
+            document.addEventListener("DOMContentLoaded", function () {
+            var languageSelect = document.getElementById("languageSelect");
+            if (!languageSelect) {
+                console.log("Element languageSelect not found.");
+                return;
+            }
+
+            languageSelect.addEventListener("change", function () {
+                var selectedLanguage = this.value;
+                console.log("Language selected: " + selectedLanguage);
+
+                // If the user is not logged in, just update the cookies
+                if ('@User.Identity.IsAuthenticated'.toLowerCase() !== "true") {
+                    $.ajax({
+                        url: '@Url.Action("SetLanguage", "User")',
+                        type: 'POST',
+                        data: {
+                            culture: selectedLanguage,
+                            returnUrl: window.location.href,
+                            __RequestVerificationToken: $('meta[name="csrf-token"]').attr('content')
+                        },
+                        success: function (response) {
+                            console.log("Language cookie updated for anonymous user.");
+                            location.reload();
+                        },
+                        error: function (xhr, status, error) {
+                            console.error("Error updating language cookie: " + error);
+                        }
+                    });
+                }
+                else {
+                   // For registered users, the existing logic is used:
+                    $.ajax({
+                        url: '@Url.Action("UpdateLanguagePreference", "User")',
+                        type: 'POST',
+                        data: {
+                            language: selectedLanguage,
+                            __RequestVerificationToken: $('meta[name="csrf-token"]').attr('content')
+                        },
+                        success: function (response) {
+                            console.log("Language preference updated in DB.");
+                            $.ajax({
+                                url: '@Url.Action("SetLanguage", "User")',
+                                type: 'POST',
+                                data: {
+                                    culture: selectedLanguage,
+                                    returnUrl: window.location.href,
+                                    __RequestVerificationToken: $('meta[name="csrf-token"]').attr('content')
+                                },
+                                success: function (response) {
+                                    console.log("Cookies updated, language set.");
+                                    location.reload();
+                                },
+                                error: function (xhr, status, error) {
+                                    console.error("Error updating cookies: " + error);
+                                }
+                            });
+                        },
+                        error: function (xhr, status, error) {
+                            console.error("Error updating language preference: " + error);
+                        }
+                    });
+                }
+            });
+        });
+
+    </script>
+</body>
+</html>

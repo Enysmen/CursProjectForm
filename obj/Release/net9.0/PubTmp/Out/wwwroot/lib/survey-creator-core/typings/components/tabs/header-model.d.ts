@@ -1,0 +1,28 @@
+import { Base, IHeader, ILoadFromJSONOptions, ISaveToJSONOptions, ISurvey, ITheme, HorizontalAlignment, VerticalAlignment } from "survey-core";
+export declare class HeaderModel extends Base implements IHeader {
+    height: number;
+    mobileHeight: number;
+    inheritWidthFrom: "survey" | "container";
+    textAreaWidth: number;
+    overlapEnabled: boolean;
+    backgroundImage: string;
+    backgroundImageOpacity: number;
+    backgroundImageFit: "contain" | "cover" | "fill" | "tile";
+    logoPositionX: HorizontalAlignment;
+    logoPositionY: VerticalAlignment;
+    titlePositionX: HorizontalAlignment;
+    titlePositionY: VerticalAlignment;
+    descriptionPositionX: HorizontalAlignment;
+    descriptionPositionY: VerticalAlignment;
+    owner: ITheme;
+    getSurvey(live?: boolean): ISurvey;
+    fromJSON(json: any, options?: ILoadFromJSONOptions): void;
+    setCssVariables(cssVariables?: {
+        [index: string]: string;
+    }): void;
+    toJSON(options?: ISaveToJSONOptions): any;
+    saveToThemeJSON(json: ITheme, options?: ISaveToJSONOptions): void;
+    private setHeaderBackgroundColorCssVariable;
+    private getBackgroundColorSwitchByValue;
+    getType(): string;
+}

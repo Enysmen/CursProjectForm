@@ -1,0 +1,252 @@
+﻿@model CursProject.Models.UserDashboardViewModel
+@using CursProject.Resources
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IHtmlLocalizer<SharedResource> Localizer
+@{
+    ViewData["Title"] = @Localizer["Personal account"];
+    bool isAdmin = ViewBag.IsAdmin != null && (bool)ViewBag.IsAdmin;
+}
+
+<h2>@ViewData["Title"] @if (isAdmin)
+    {
+        <small>(@Localizer["Administrator mode"])</small>
+    }</h2>
+
+@if(isAdmin)
+{
+    <div class="mb-3">
+        <label for="userSelect">Select user:</label>
+        <select id="userSelect" class="form-select" onchange="onUserSelectChange()">
+            @foreach(var user in Model.AllUsers)
+            {
+                if (user.Id == Model.SelectedUserId)
+                {
+                    <option value="@user.Id" selected="selected">@user.Email</option>
+                }
+                else
+                {
+                    <option value="@user.Id">@user.Email</option>
+                }
+            }
+        </select>
+    </div>
+}
+
+<ul class="nav nav-tabs" id="userDashboardTabs" role="tablist">
+    <li class="nav-item" role="presentation">
+        <button class="nav-link active" id="templates-tab" data-bs-toggle="tab" data-bs-target="#templates" type="button" role="tab" aria-controls="templates" aria-selected="true">
+            @Localizer["My templates"]
+        </button>
+    </li>
+    <li class="nav-item" role="presentation">
+        <button class="nav-link" id="responses-tab" data-bs-toggle="tab" data-bs-target="#responses" type="button" role="tab" aria-controls="responses" aria-selected="false">
+            @Localizer["My completed forms"]
+        </button>
+    </li>
+</ul>
+<div class="tab-content mt-3" id="userDashboardTabsContent">
+    <!-- Templates tab -->
+    <div class="tab-pane fade show active" id="templates" role="tabpanel" aria-labelledby="templates-tab">
+        <div class="mb-3">
+            <button class="btn btn-primary" id="createTemplateButton">@Localizer["Create a template"]</button>
+            <button class="btn btn-warning" id="editTemplateButton">@Localizer["Edit template"]</button>
+            <button class="btn btn-danger" id="deleteTemplateButton">@Localizer["Delete template"]</button>
+            <a asp-controller="User" asp-action="Integration" class="btn btn-primary">@Localizer["Integrate with Salesforce"]</a>
+        </div>
+        <table class="table table-striped table-hover" id="templatesTable">
+            <thead class="table-light">
+                <tr>
+                    <th>@Localizer["Choose"] </th>
+                    <th>
+                        @Localizer["Headline"]
+                        <button type="button" id="sortTitleButton" class="btn btn-sm btn-light">
+                            <span id="sortTitleIcon">⬍</span>
+                        </button>
+                    </th>
+                    <th>@Localizer["Description"]</th>
+                    <th>@Localizer["Date of creation"]</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var template in Model.MyTemplates)
+                {
+                    <tr>
+                        <td>
+                            <input type="radio" name="selectedTemplateRadio" class="select-template-radio" data-template-id="@template.Id" />
+                        </td>
+                        <td>
+                            <a href="@Url.Action("Details", "SurveyTemplate", new { id = template.Id })">
+                                @template.Title
+                            </a>
+                        </td>
+                        <td>@template.Description</td>
+                        <td>@template.CreatedDate.ToLocalTime().ToString("g")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+   
+    
+    <!-- Tab with completed forms -->
+    <div class="tab-pane fade" id="responses" role="tabpanel" aria-labelledby="responses-tab">
+        <table class="table table-striped table-hover" id="responsesTable">
+            <thead class="table-light">
+                <tr>
+                    <th>
+                        @Localizer["Form"]
+                        <button type="button" id="sortTitleButton1" class="btn btn-sm btn-light">
+                            <span id="sortTitleIcon1">⬍</span>
+                        </button>
+                    </th>
+                    <th>@Localizer["Description"]</th>
+                    <th>@Localizer["Date of creation"]</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var response in Model.MyResponses)
+                {
+                    <tr>
+                        <td>
+                            <a href="@Url.Action("ViewResponse", "SurveyTemplate", new { id = response.Id })">
+                                @response.SurveyTemplate?.Title
+                            </a>
+                        </td>
+                        <td>@response.SurveyTemplate?.Description</td>
+                        <td>@response.SubmittedDate.ToLocalTime().ToString("g")</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    <script>
+            // Handler for changing user selection (administrators only)
+        function onUserSelectChange() {
+            var selectedUserId = document.getElementById("userSelect").value;
+            window.location.href = '@Url.Action("Index", "User")' + '?userId=' + selectedUserId;
+        }
+
+                // Function to get CSRF token from meta tag
+        function getCsrfToken() {
+            const tokenMeta = document.querySelector('meta[name="csrf-token"]');
+            return tokenMeta ? tokenMeta.getAttribute("content") : "";
+        }
+        const csrfToken = getCsrfToken();
+
+            // Handler for the Create Template button
+        document.getElementById("createTemplateButton").addEventListener("click", function () {
+            var selected = document.querySelector(".select-template-radio:checked");
+            if (selected) {
+                var templateId = selected.getAttribute("data-template-id");
+                window.location.href = '@Url.Action("Create", "SurveyTemplate")' + '?cloneTemplateId=' + templateId;
+            } else {
+                window.location.href = '@Url.Action("Create", "SurveyTemplate")';
+            }
+        });
+
+            // Handler for the template edit button
+        document.getElementById("editTemplateButton").addEventListener("click", function () {
+            var selected = document.querySelector(".select-template-radio:checked");
+            if (!selected) {
+                alert("Please select a template to edit.");
+                return;
+            }
+            var templateId = selected.getAttribute("data-template-id");
+            window.location.href = '@Url.Action("Edit", "SurveyTemplate")/' + templateId;
+        });
+
+            // Handler for the template delete button
+             document.getElementById("deleteTemplateButton").addEventListener("click", function () {
+            var selected = document.querySelector(".select-template-radio:checked");
+            if (!selected) {
+                alert("Please select a template to delete.");
+                return;
+            }
+                        if (!confirm("Are you sure you want to delete the selected template?")) {
+                return;
+            }
+            var templateId = selected.getAttribute("data-template-id");
+
+                // Sending an AJAX POST request to delete a template
+            $.ajax({
+                url: '@Url.Action("Delete", "SurveyTemplate")',
+                type: 'POST',
+                data: {
+                    id: templateId,
+                        __RequestVerificationToken: $('meta[name="csrf-token"]').attr('content')
+                },
+                success: function () {
+                            alert("Template removed.");
+                location.reload();
+                },
+                 error: function () {
+                         alert("Error deleting template.");
+                }
+            });
+        });
+
+            // --- Sorting for the FIRST table (templatesTable) ---
+                 let titleSortDirection = 0; //0 - not sorted, 1 - ascending, -1 - descending
+             document.getElementById("sortTitleButton").addEventListener("click", function () {
+                 titleSortDirection = titleSortDirection === 1 ? -1 : 1;
+                 sortTemplatesByTitle(titleSortDirection);
+             });
+
+             function sortTemplatesByTitle(direction) {
+                 const tableBody = document.querySelector("#templatesTable tbody");
+                 const rows = Array.from(tableBody.querySelectorAll("tr"));
+
+                 rows.sort((a, b) => {
+                     const titleA = a.cells[1].innerText.trim().toLowerCase();
+                     const titleB = b.cells[1].innerText.trim().toLowerCase();
+                     if (titleA < titleB) return direction === 1 ? -1 : 1;
+                     if (titleA > titleB) return direction === 1 ? 1 : -1;
+                     return 0;
+                 });
+
+                 rows.forEach(row => tableBody.appendChild(row));
+                 const sortIcon = document.getElementById("sortTitleIcon");
+                 sortIcon.textContent = direction === 1 ? "⬆" : "⬇";
+             }
+
+
+                      // --- Sorting for the second table (templatesTable) ---
+
+                     // Initial sort state: 0 - not sorted, 1 - ascending, -1 - descending
+            let titleSortDirection1 = 0;
+            document.getElementById("sortTitleButton1").addEventListener("click", function () {
+                    // // Switch the sorting direction: if it is currently ascending, switch to descending and vice versa
+                titleSortDirection1 = (titleSortDirection1 === 1 ? -1 : 1);
+                sortResponsesByTitle(titleSortDirection1);
+            });
+
+            function sortResponsesByTitle(direction1) {
+                const tableBody1 = document.querySelector("#responsesTable tbody");
+                const rows1 = Array.from(tableBody1.querySelectorAll("tr"));
+
+                rows1.sort((a1, b1) => {
+                        // We get the text of the form title (in the first column, inside the <a> tag)
+                    const titleA1 = a1.cells[0].innerText.trim().toLowerCase();
+                    const titleB1 = b1.cells[0].innerText.trim().toLowerCase();
+                    if (titleA1 < titleB1) return direction1 === 1 ? -1 : 1;
+                    if (titleA1 > titleB1) return direction1 === 1 ? 1 : -1;
+                    return 0;
+                });
+
+                    // Append the sorted rows back to the table
+                rows1.forEach(row1 => tableBody1.appendChild(row1));
+
+                    // Updating the sorting icon
+                    const sortIcon1 = document.getElementById("sortTitleIcon1");
+                    sortIcon1.textContent = direction1 === 1 ? "⬆" : "⬇";
+            }
+
+    </script>
+
+}

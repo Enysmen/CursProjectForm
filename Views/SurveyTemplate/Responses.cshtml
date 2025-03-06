@@ -1,0 +1,56 @@
+﻿@model CursProject.Models.SurveyResponse
+@using Microsoft.AspNetCore.Mvc.Localization
+@using CursProject.Resources
+@inject Microsoft.AspNetCore.Antiforgery.IAntiforgery Antiforgery
+@inject IHtmlLocalizer<SharedResource> Localizer
+@{
+    ViewData["Title"] = "View answer";
+}
+
+<div class="container mt-4">
+    <h2>@Localizer["Reply to form:"] @Model.SurveyTemplate.Title</h2>
+    <p>@Localizer["Filled in:"] @Model.SubmittedDate.ToLocalTime().ToString("g")</p>
+    <p>
+        @Localizer["Filled in by:"]
+        @if (Model.User != null)
+        {
+            @Model.User.Email
+        }
+        else
+        {
+            <em> @Localizer["User information is missing"] </em>
+        }
+    </p>
+
+    <!-- Контейнер для отображения формы с предзаполненными ответами -->
+    <div id="surveyContainer"></div>
+</div>
+
+@section Scripts {
+    <!-- Подключаем необходимые библиотеки SurveyJS -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://unpkg.com/survey-core/survey.core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    <script src="https://unpkg.com/survey-core/themes/index.min.js"></script>
+    <script>
+        // Получаем JSON-схему шаблона.
+        var jsonSchema = @Html.Raw(Newtonsoft.Json.JsonConvert.SerializeObject(Model.SurveyTemplate.JsonSchema));
+        // Получаем данные ответа (ResponseData) – это строка с JSON.
+        var surveyData = @Html.Raw(Model.ResponseData);
+
+        // Создаем объект SurveyJS с заданной схемой.
+        var survey = new Survey.Model(jsonSchema);
+
+        // Устанавливаем данные ответа для предзаполнения формы.
+        survey.data = surveyData;
+
+        // Переводим форму в режим только для чтения.
+        survey.mode = "display";
+
+        // Рендерим форму в контейнере с id "surveyContainer".
+        $("#surveyContainer").Survey({ model: survey });
+    </script>
+}

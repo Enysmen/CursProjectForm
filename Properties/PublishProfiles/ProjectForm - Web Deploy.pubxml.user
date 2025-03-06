@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2025-02-28T09:05:12.2295615Z||;True|2025-02-28T10:20:15.3333733+02:00||;True|2025-02-28T10:18:44.7150497+02:00||;True|2025-02-23T22:34:51.1628657+02:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Server=tcp:projectformaspnet.database.windows.net,1433%3bInitial Catalog=ProjecSQLForm%3bPersist Security Info=False%3bUser ID=AdminSQL%3bPassword=Sstt123456789%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+    <DestinationConnectionStrings Include="Kestrel:Certificates:Development:Password">
+      <Value>Server=tcp:projectformaspnet.database.windows.net,1433%3bInitial Catalog=ProjecSQLForm%3bPersist Security Info=False%3bUser ID=AdminSQL%3bPassword=Sstt123456789%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="CursProject.Data.ApplicationDbContext">
+      <Value>Server=tcp:projectformaspnet.database.windows.net,1433%3bInitial Catalog=ProjecSQLForm%3bPersist Security Info=False%3bUser ID=AdminSQL%3bPassword=Sstt123456789%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

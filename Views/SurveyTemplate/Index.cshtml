@@ -1,0 +1,156 @@
+﻿@using System.Security.Claims
+@using CursProject.Resources
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IHtmlLocalizer<SharedResource> Localizer
+@model CursProject.Models.SurveyTemplateIndexViewModel
+@{
+    ViewData["Title"] = Localizer["List of form templates"];
+    var filter = Model.Filter ?? "all";
+    var currentUserId = User.Identity.IsAuthenticated ? User.FindFirstValue(ClaimTypes.NameIdentifier) : "";
+}
+@{
+    var allSelected = filter == "all" ? "selected" : "";
+    var mineSelected = filter == "mine" ? "selected" : "";
+    var othersSelected = filter == "others" ? "selected" : "";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Таблица 1: Популярные шаблоны -->
+<h3>@Localizer["Popular templates (by completed forms)"]</h3>
+<form asp-action="SelectPopularTemplate" method="post">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Localizer["Choose"]</th>
+                <th>@Localizer["Name"]</th>
+                <th>@Localizer["Description"]</th>
+                <th>@Localizer["Likes"]</th>
+                <th>@Localizer["Number of completed forms"]</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var template in Model.PopularTemplates)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedTemplateId" value="@template.Id" />
+                    </td>
+                    <td>@template.Title</td>
+                    <td>@template.Description</td>
+                    <td>@(template.Likes?.Count() ?? 0)</td>
+                    <td>@(template.Responses?.Count() ?? 0)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    @if (User.Identity.IsAuthenticated)
+    {
+
+        <button type="submit" class="btn btn-primary">@Localizer["Create Template"]</button>
+
+    }
+    else
+    {
+        <p>@Localizer["To create a template you need to log in."]</p>
+    }
+</form>
+
+<hr />
+
+<!-- Таблица 2: Все шаблоны с фильтром (пример оставляем без изменений) -->
+<h3>@Localizer["All templates"]</h3>
+<form asp-action="ProcessTemplate" method="post">
+    <div class="mb-3">
+        <label>@Localizer["Filter:"]</label>
+        <select name="filter" onchange="this.form.submit()">
+            @if(User.Identity.IsAuthenticated)
+            {
+                @if (filter == "all")
+                {
+                    <option value="all" selected>@Localizer["Anyone"]</option>
+                }
+                else
+                {
+                    <option value="all">@Localizer["Anyone"]</option>
+                }
+
+                @if (filter == "mine")
+                {
+                    <option value="mine" selected>@Localizer["I"]</option>
+                }
+                else
+                {
+                    <option value="mine">@Localizer["I"]</option>
+                }
+
+                @if (filter == "others")
+                {
+                    <option value="others" selected>@Localizer["Not me"]</option>
+                }
+                else
+                {
+                    <option value="others">@Localizer["Not me"]</option>
+                }
+            }
+        </select>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>@Localizer["Choose"]</th>
+                <th>@Localizer["Name"]</th>
+                <th>@Localizer["Description"]</th>
+                <th>@Localizer["Creator"]</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var template in Model.AllTemplates)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedTemplateId" value="@template.Id" />
+                    </td>
+                    <td>@template.Title</td>
+                    <td>@template.Description</td>
+                    <td>@template.User?.UserName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="mb-sm-3">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <button type="submit" name="actionType" value="fill" class="btn btn-success">@Localizer["Fill out the form"]</button>
+            <button type="submit" name="actionType" value="edit" class="btn btn-warning">@Localizer["Edit form"]</button>
+            <button type="submit" name="actionType" value="details" class="btn btn-info">@Localizer["View template"]</button>
+            <button type="submit" name="actionType" value="create" class="btn btn-primary">@Localizer["Create Template"]</button>
+        }
+        else
+        {
+            <button type="submit" name="actionType" value="details" class="btn btn-info">@Localizer["View template"]</button>
+        }
+    </div>
+</form>
+
+
+
+@section Scripts {
+
+
+    <script src="~/lib/survey-core/survey.core.min.js"></script>
+    <script src="~/lib/survey-core/themes/index.min.js"></script>
+    <script src="~/lib/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    
+}

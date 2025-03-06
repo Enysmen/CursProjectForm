@@ -1,0 +1,125 @@
+﻿@using System.Security.Claims
+@using Microsoft.AspNetCore.Mvc.Localization
+@inject IViewLocalizer Localizer
+@model CursProject.Models.SurveyTemplateIndexViewModel
+@{
+    ViewData["Title"] = "Список шаблонов форм";
+    var filter = Model.Filter ?? "all";
+    var currentUserId = User.Identity.IsAuthenticated ? User.FindFirstValue(System.Security.Claims.ClaimTypes.NameIdentifier) : "";
+}
+
+<h2>@ViewData["Title"]</h2>
+
+@if (TempData["ErrorMessage"] != null)
+{
+    <div class="alert alert-danger">
+        @TempData["ErrorMessage"]
+    </div>
+}
+
+<!-- Таблица 1: Популярные шаблоны -->
+<h3>Популярные шаблоны (по лайкам)</h3>
+<form asp-action="SelectPopularTemplate" method="post">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Выбрать</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Лайки</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var template in Model.PopularTemplates)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedTemplateId" value="@template.Id" />
+                    </td>
+                    <td>@template.Title</td>
+                    <td>@template.Description</td>
+                    <td>@(template.Likes?.Count() ?? 0)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+    <button type="submit" class="btn btn-primary">Create Template</button>
+
+
+   <!--Кнопка "Create Template" доступна только для зарегистрированных пользователей и администраторов !->
+    
+   @if (User.Identity.IsAuthenticated)
+    { 
+         <button asp-action="" type="submit" class="btn btn-primary">Create Template</button> 
+    }
+    else
+    {
+        <p>Для создания шаблона необходимо войти в систему.</p>
+    } 
+
+
+</form>
+
+<hr />
+
+<!-- Таблица 2: Все шаблоны с фильтром -->
+<h3>Все шаблоны</h3>
+<form asp-action="ProcessTemplate" method="post">
+    <div class="mb-3">
+        <label>Фильтр:</label>
+        <select name="filter" onchange="this.form.submit()">
+            <option value="all" selected="@(filter=="all" ? "selected" : "")">Кто угодно</option>
+            <option value="mine" selected="@(filter=="mine" ? "selected" : "")">Я</option>
+            <option value="others" selected="@(filter=="others" ? "selected" : "")">Не я</option>
+        </select>
+    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Выбрать</th>
+                <th>Название</th>
+                <th>Описание</th>
+                <th>Создатель</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var template in Model.AllTemplates)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedTemplateId" value="@template.Id" />
+                    </td>
+                    <td>@template.Title</td>
+                    <td>@template.Description</td>
+                    <td>@template.User?.UserName</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <div class="mb-3">
+        @if (User.Identity.IsAuthenticated)
+        {
+            <button type="submit" name="actionType" value="fill" class="btn btn-success">Заполнить форму</button>
+            <button type="submit" name="actionType" value="edit" class="btn btn-warning">Редактировать форму</button>
+        }
+        else
+        {
+            <p>Для заполнения форм необходимо войти в систему.</p>
+        }
+    </div>
+</form>
+
+
+
+
+@section Scripts {
+
+
+    <script src="~/lib/survey-core/survey.core.min.js"></script>
+    <script src="~/lib/survey-core/themes/index.min.js"></script>
+    <script src="~/lib/survey-creator-core/survey-creator-core.min.js"></script>
+    <script src="https://unpkg.com/survey-js-ui/survey-js-ui.min.js"></script>
+    <script src="https://unpkg.com/survey-creator-js/survey-creator-js.min.js"></script>
+    <script src="~/js/templates.js" asp-append-version="true"></script>
+}

@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Access settings" xml:space="preserve">
+    <value>Access settings</value>
+  </data>
+  <data name="Access settings:" xml:space="preserve">
+    <value>Access settings:</value>
+  </data>
+  <data name="Access:" xml:space="preserve">
+    <value>Access:</value>
+  </data>
+  <data name="Account data (company)" xml:space="preserve">
+    <value>Account data (company)</value>
+  </data>
+  <data name="Active" xml:space="preserve">
+    <value>Active</value>
+  </data>
+  <data name="Add" xml:space="preserve">
+    <value>Add</value>
+  </data>
+  <data name="Add a comment" xml:space="preserve">
+    <value>Add a comment</value>
+  </data>
+  <data name="Add Administrator" xml:space="preserve">
+    <value>Add Administrator</value>
+  </data>
+  <data name="Administration" xml:space="preserve">
+    <value>Administration</value>
+  </data>
+  <data name="Administrator" xml:space="preserve">
+    <value>Administrator</value>
+  </data>
+  <data name="Administrator mode" xml:space="preserve">
+    <value>Administrator mode</value>
+  </data>
+  <data name="Aggregation of responses" xml:space="preserve">
+    <value>Aggregation of responses</value>
+  </data>
+  <data name="All templates" xml:space="preserve">
+    <value>All templates</value>
+  </data>
+  <data name="Anyone" xml:space="preserve">
+    <value>Anyone</value>
+  </data>
+  <data name="Are you sure you want to delete the form?" xml:space="preserve">
+    <value>Are you sure you want to delete the form?</value>
+  </data>
+  <data name="Are you sure you want to delete the selected template?" xml:space="preserve">
+    <value>Are you sure you want to delete the selected template?</value>
+  </data>
+  <data name="Are you sure you want to delete the template?" xml:space="preserve">
+    <value>Are you sure you want to delete the template?</value>
+  </data>
+  <data name="Are you sure you want to give up your administrative rights?" xml:space="preserve">
+    <value>Are you sure you want to give up your administrative rights?</value>
+  </data>
+  <data name="Average for numerical questions:" xml:space="preserve">
+    <value>Average for numerical questions:</value>
+  </data>
+  <data name="Block" xml:space="preserve">
+    <value>Block</value>
+  </data>
+  <data name="Blocked" xml:space="preserve">
+    <value>Blocked</value>
+  </data>
+  <data name="Cancel" xml:space="preserve">
+    <value>Cancel</value>
+  </data>
+  <data name="Cannot add administrator to allowed users list." xml:space="preserve">
+    <value>Cannot add administrator to allowed users list.</value>
+  </data>
+  <data name="Change Mode Light" xml:space="preserve">
+    <value>Change Mode Light</value>
+  </data>
+  <data name="Changes saved." xml:space="preserve">
+    <value>Changes saved.</value>
+  </data>
+  <data name="Choose" xml:space="preserve">
+    <value>Choose</value>
+  </data>
+  <data name="Comments" xml:space="preserve">
+    <value>Comments</value>
+  </data>
+  <data name="Company Email (Email__c)" xml:space="preserve">
+    <value>Company Email (Email__c)</value>
+  </data>
+  <data name="Company Name (Account Name)" xml:space="preserve">
+    <value>Company Name (Account Name)</value>
+  </data>
+  <data name="Confirm Password" xml:space="preserve">
+    <value>Confirm Password</value>
+  </data>
+  <data name="Contact data" xml:space="preserve">
+    <value>Contact data</value>
+  </data>
+  <data name="Contact email" xml:space="preserve">
+    <value>Contact email</value>
+  </data>
+  <data name="Contact Name" xml:space="preserve">
+    <value>Contact Name</value>
+  </data>
+  <data name="Contact phone number" xml:space="preserve">
+    <value>Contact phone number</value>
+  </data>
+  <data name="Create a template" xml:space="preserve">
+    <value>Create a template</value>
+  </data>
+  <data name="Create Account and Contact" xml:space="preserve">
+    <value>Create Account and Contact</value>
+  </data>
+  <data name="Create Template" xml:space="preserve">
+    <value>Create Template</value>
+  </data>
+  <data name="Creating a form template" xml:space="preserve">
+    <value>Creating a form template</value>
+  </data>
+  <data name="Creator" xml:space="preserve">
+    <value>Creator</value>
+  </data>
+  <data name="Data for Account (company)" xml:space="preserve">
+    <value>Data for Account (company)</value>
+  </data>
+  <data name="Data for Contact" xml:space="preserve">
+    <value>Data for Contact</value>
+  </data>
+  <data name="Date of creation" xml:space="preserve">
+    <value>Date of creation</value>
+  </data>
+  <data name="Delete all (Account and Contact)" xml:space="preserve">
+    <value>Delete all (Account and Contact)</value>
+  </data>
+  <data name="Delete form" xml:space="preserve">
+    <value>Delete form</value>
+  </data>
+  <data name="Delete template" xml:space="preserve">
+    <value>Delete template</value>
+  </data>
+  <data name="Description" xml:space="preserve">
+    <value>Description</value>
+  </data>
+  <data name="Edit data" xml:space="preserve">
+    <value>Edit data</value>
+  </data>
+  <data name="Edit form" xml:space="preserve">
+    <value>Edit form</value>
+  </data>
+  <data name="Edit template" xml:space="preserve">
+    <value>Edit template</value>
+  </data>
+  <data name="Editable set of questions" xml:space="preserve">
+    <value>Editable set of questions</value>
+  </data>
+  <data name="Editing a Form in SurveyJS Creator" xml:space="preserve">
+    <value>Editing a Form in SurveyJS Creator</value>
+  </data>
+  <data name="Editing a form template" xml:space="preserve">
+    <value>Editing a form template</value>
+  </data>
+  <data name="Enter a description of the survey" xml:space="preserve">
+    <value>Enter a description of the survey</value>
+  </data>
+  <data name="Enter a new company name" xml:space="preserve">
+    <value>Enter a new company name</value>
+  </data>
+  <data name="Enter a new contact name" xml:space="preserve">
+    <value>Enter a new contact name</value>
+  </data>
+  <data name="Enter a new contact phone number" xml:space="preserve">
+    <value>Enter a new contact phone number</value>
+  </data>
+  <data name="Enter a survey description" xml:space="preserve">
+    <value>Enter a survey description</value>
+  </data>
+  <data name="Enter contact email" xml:space="preserve">
+    <value>Enter contact email</value>
+  </data>
+  <data name="Enter contact name" xml:space="preserve">
+    <value>Enter contact name</value>
+  </data>
+  <data name="Enter contact phone number" xml:space="preserve">
+    <value>Enter contact phone number</value>
+  </data>
+  <data name="Enter new company email" xml:space="preserve">
+    <value>Enter new company email</value>
+  </data>
+  <data name="Enter new contact email" xml:space="preserve">
+    <value>Enter new contact email</value>
+  </data>
+  <data name="Enter the company email" xml:space="preserve">
+    <value>Enter the company email</value>
+  </data>
+  <data name="Enter the company name" xml:space="preserve">
+    <value>Enter the company name</value>
+  </data>
+  <data name="Enter the contact's job title" xml:space="preserve">
+    <value>Enter the contact's job title</value>
+  </data>
+  <data name="Enter the contact's new job title" xml:space="preserve">
+    <value>Enter the contact's new job title</value>
+  </data>
+  <data name="Enter user email to add:" xml:space="preserve">
+    <value>Enter user email to add:</value>
+  </data>
+  <data name="Error deleting template." xml:space="preserve">
+    <value>Error deleting template.</value>
+  </data>
+  <data name="Error saving changes." xml:space="preserve">
+    <value>Error saving changes.</value>
+  </data>
+  <data name="Error saving changes:" xml:space="preserve">
+    <value>Error saving changes:</value>
+  </data>
+  <data name="Error updating language preference:" xml:space="preserve">
+    <value>Error updating language preference:</value>
+  </data>
+  <data name="Error updating theme preference:" xml:space="preserve">
+    <value>Error updating theme preference:</value>
+  </data>
+  <data name="Fill out the form" xml:space="preserve">
+    <value>Fill out the form</value>
+  </data>
+  <data name="filled" xml:space="preserve">
+    <value>filled</value>
+  </data>
+  <data name="Filled in by:" xml:space="preserve">
+    <value>Filled in by:</value>
+  </data>
+  <data name="Filled in:" xml:space="preserve">
+    <value>Filled in:</value>
+  </data>
+  <data name="Filling out the form" xml:space="preserve">
+    <value>Filling out the form</value>
+  </data>
+  <data name="Filter:" xml:space="preserve">
+    <value>Filter:</value>
+  </data>
+  <data name="First Name and Last Name" xml:space="preserve">
+    <value>First Name and Last Name</value>
+  </data>
+  <data name="Forgot your password?" xml:space="preserve">
+    <value>Forgot your password?</value>
+  </data>
+  <data name="Form" xml:space="preserve">
+    <value>Form</value>
+  </data>
+  <data name="General settings" xml:space="preserve">
+    <value>General settings</value>
+  </data>
+  <data name="Headline" xml:space="preserve">
+    <value>Headline</value>
+  </data>
+  <data name="Hello" xml:space="preserve">
+    <value>Hello</value>
+  </data>
+  <data name="Home" xml:space="preserve">
+    <value>Home</value>
+  </data>
+  <data name="I" xml:space="preserve">
+    <value>I</value>
+  </data>
+  <data name="Integrate with Salesforce" xml:space="preserve">
+    <value>Integrate with Salesforce</value>
+  </data>
+  <data name="Job title" xml:space="preserve">
+    <value>Job title</value>
+  </data>
+  <data name="JSON Schema parsing error (edit):" xml:space="preserve">
+    <value>JSON Schema parsing error (edit):</value>
+  </data>
+  <data name="JSON schema parsing error:" xml:space="preserve">
+    <value>JSON schema parsing error:</value>
+  </data>
+  <data name="Language preference updated." xml:space="preserve">
+    <value>Language preference updated.</value>
+  </data>
+  <data name="Language:" xml:space="preserve">
+    <value>Language:</value>
+  </data>
+  <data name="Last visited" xml:space="preserve">
+    <value>Last visited</value>
+  </data>
+  <data name="light" xml:space="preserve">
+    <value>light</value>
+  </data>
+  <data name="Like" xml:space="preserve">
+    <value>Like</value>
+  </data>
+  <data name="Likes" xml:space="preserve">
+    <value>Likes</value>
+  </data>
+  <data name="List of completed forms" xml:space="preserve">
+    <value>List of completed forms</value>
+  </data>
+  <data name="List of form templates" xml:space="preserve">
+    <value>List of form templates</value>
+  </data>
+  <data name="Log in" xml:space="preserve">
+    <value>Log in</value>
+  </data>
+  <data name="Login" xml:space="preserve">
+    <value>Login</value>
+  </data>
+  <data name="Logout" xml:space="preserve">
+    <value>Logout</value>
+  </data>
+  <data name="Menu" xml:space="preserve">
+    <value>Menu</value>
+  </data>
+  <data name="My completed forms" xml:space="preserve">
+    <value>My completed forms</value>
+  </data>
+  <data name="My templates" xml:space="preserve">
+    <value>My templates</value>
+  </data>
+  <data name="Name" xml:space="preserve">
+    <value>Name</value>
+  </data>
+  <data name="New Poll" xml:space="preserve">
+    <value>New Poll</value>
+  </data>
+  <data name="No" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="Not me" xml:space="preserve">
+    <value>Not me</value>
+  </data>
+  <data name="Number of completed forms" xml:space="preserve">
+    <value>Number of completed forms</value>
+  </data>
+  <data name="On/Off" xml:space="preserve">
+    <value>On/Off</value>
+  </data>
+  <data name="Password" xml:space="preserve">
+    <value>Password</value>
+  </data>
+  <data name="Personal account" xml:space="preserve">
+    <value>Personal account</value>
+  </data>
+  <data name="Personal page" xml:space="preserve">
+    <value>Personal page</value>
+  </data>
+  <data name="Please enter the user's email to add." xml:space="preserve">
+    <value>Please enter the user's email to add.</value>
+  </data>
+  <data name="Please select a template to delete." xml:space="preserve">
+    <value>Please select a template to delete.</value>
+  </data>
+  <data name="Please select a template to edit." xml:space="preserve">
+    <value>Please select a template to edit.</value>
+  </data>
+  <data name="Popular templates (by completed forms)" xml:space="preserve">
+    <value>Popular templates (by completed forms)</value>
+  </data>
+  <data name="Privacy" xml:space="preserve">
+    <value>Privacy</value>
+  </data>
+  <data name="Privacy Policy" xml:space="preserve">
+    <value>Privacy Policy</value>
+  </data>
+  <data name="Private" xml:space="preserve">
+    <value>Private</value>
+  </data>
+  <data name="Public" xml:space="preserve">
+    <value>Public</value>
+  </data>
+  <data name="Register" xml:space="preserve">
+    <value>Register</value>
+  </data>
+  <data name="Register as a new user" xml:space="preserve">
+    <value>Register as a new user</value>
+  </data>
+  <data name="Remove Administrator" xml:space="preserve">
+    <value>Remove Administrator</value>
+  </data>
+  <data name="Remove like" xml:space="preserve">
+    <value>Remove like</value>
+  </data>
+  <data name="Reply to form:" xml:space="preserve">
+    <value>Reply to form:</value>
+  </data>
+  <data name="Resend email confirmation" xml:space="preserve">
+    <value>Resend email confirmation</value>
+  </data>
+  <data name="Results" xml:space="preserve">
+    <value>Results</value>
+  </data>
+  <data name="Return to the list of forms" xml:space="preserve">
+    <value>Return to the list of forms</value>
+  </data>
+  <data name="Save changes" xml:space="preserve">
+    <value>Save changes</value>
+  </data>
+  <data name="Save template" xml:space="preserve">
+    <value>Save template</value>
+  </data>
+  <data name="Select user:" xml:space="preserve">
+    <value>Select user:</value>
+  </data>
+  <data name="Status" xml:space="preserve">
+    <value>Status</value>
+  </data>
+  <data name="Submit a comment" xml:space="preserve">
+    <value>Submit a comment</value>
+  </data>
+  <data name="Template details" xml:space="preserve">
+    <value>Template details</value>
+  </data>
+  <data name="Template removed." xml:space="preserve">
+    <value>Template removed.</value>
+  </data>
+  <data name="Thank you for filling out the form!" xml:space="preserve">
+    <value>Thank you for filling out the form!</value>
+  </data>
+  <data name="Thank you!" xml:space="preserve">
+    <value>Thank you!</value>
+  </data>
+  <data name="The most common answer for text questions is:" xml:space="preserve">
+    <value>The most common answer for text questions is:</value>
+  </data>
+  <data name="The user has already been added." xml:space="preserve">
+    <value>The user has already been added.</value>
+  </data>
+  <data name="Theme preference updated." xml:space="preserve">
+    <value>Theme preference updated.</value>
+  </data>
+  <data name="To create a template you need to log in." xml:space="preserve">
+    <value>To create a template you need to log in.</value>
+  </data>
+  <data name="To leave a comment, please log in." xml:space="preserve">
+    <value>To leave a comment, please log in.</value>
+  </data>
+  <data name="Use a local account to log in." xml:space="preserve">
+    <value>Use a local account to log in.</value>
+  </data>
+  <data name="Use another service to log in." xml:space="preserve">
+    <value>Use another service to log in.</value>
+  </data>
+  <data name="Use another service to register." xml:space="preserve">
+    <value>Use another service to register.</value>
+  </data>
+  <data name="Use this page to detail your site's privacy policy." xml:space="preserve">
+    <value>Use this page to detail your site's privacy policy.</value>
+  </data>
+  <data name="User email" xml:space="preserve">
+    <value>User email</value>
+  </data>
+  <data name="User information is missing" xml:space="preserve">
+    <value>User information is missing</value>
+  </data>
+  <data name="User Management" xml:space="preserve">
+    <value>User Management</value>
+  </data>
+  <data name="User with this email not found." xml:space="preserve">
+    <value>User with this email not found.</value>
+  </data>
+  <data name="Users with access:" xml:space="preserve">
+    <value>Users with access:</value>
+  </data>
+  <data name="View answer" xml:space="preserve">
+    <value>View answer</value>
+  </data>
+  <data name="View template" xml:space="preserve">
+    <value>View template</value>
+  </data>
+  <data name="Waive administrative rights" xml:space="preserve">
+    <value>Waive administrative rights</value>
+  </data>
+  <data name="Yes" xml:space="preserve">
+    <value>Yes</value>
+  </data>
+  <data name="You can only view the form. To fill out the form, please log in." xml:space="preserve">
+    <value>You can only view the form. To fill out the form, please log in.</value>
+  </data>
+  <data name="You cannot add yourself to the list of allowed users." xml:space="preserve">
+    <value>You cannot add yourself to the list of allowed users.</value>
+  </data>
+</root>

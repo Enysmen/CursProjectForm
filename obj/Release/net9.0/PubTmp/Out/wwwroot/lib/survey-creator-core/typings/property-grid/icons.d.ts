@@ -1,0 +1,24 @@
+export declare const pgTabIcons: {
+    appearance: string;
+    background: string;
+    columns: string;
+    logic: string;
+    data: string;
+    design: string;
+    general: string;
+    header: string;
+    language: string;
+    layout: string;
+    logo: string;
+    navigation: string;
+    pages: string;
+    question: string;
+    timer: string;
+    rows: string;
+    specific: string;
+    showOnCompleted: string;
+    themes: string;
+    totals: string;
+    validation: string;
+    undefined: string;
+};

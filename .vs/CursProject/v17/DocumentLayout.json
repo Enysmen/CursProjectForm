@@ -1,0 +1,1053 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Task Intrasition\\CursProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\service\\salesforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:service\\salesforceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\user\\integration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\user\\integration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|E:\\Task Intrasition\\CursProject\\resources\\sharedresource.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:resources\\sharedresource.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|E:\\Task Intrasition\\CursProject\\resources\\sharedresource.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:resources\\sharedresource.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\aggregatedresponsesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\aggregatedresponsesviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Night\\AppData\\Local\\SourceServer\\a718a2f2f2767c5f624ca3dccd7785513114b231bd7696c49a4a08a5e3228791\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Night\\AppData\\Local\\SourceServer\\c24db518dc6084a6441698ccf15ee593807c28be1076f175b6398dd6a741df61\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Night\\AppData\\Local\\SourceServer\\4c6f639e055711cbb20ac270d93769bdef480bbe2508bc3c4dfcd9f9c87a3267\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\user\\editintegration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\user\\editintegration.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\controllers\\surveytemplatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:controllers\\surveytemplatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\salesforceintegrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\salesforceintegrationviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\resources\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:resources\\sharedresource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\userdashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:controllers\\surveycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\extensions\\htmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:extensions\\htmlhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\surveytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\surveytemplate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\surveyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\surveyresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\templatelike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\templatelike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\survey\\fill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\survey\\fill.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\surveytemplateindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\surveytemplateindexviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\models\\templatecomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:models\\templatecomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Night\\AppData\\Local\\SourceServer\\a07df60c3dd1180091a49889726f824e3a51e064493c71df58b7612c34dacf09\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\survey\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\survey\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\_commentspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\_commentspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\surveytemplate\\responses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\surveytemplate\\responses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\forgotpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\registerconfirmation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:areas\\identity\\pages\\account\\lockout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Night\\AppData\\Local\\SourceServer\\b5df5d81f92d036d6014657fb2cbf047cc6842cea878da6d9c2786a622edc5db\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\resources\\sharedresource.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:resources\\sharedresource.en.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\resources\\sharedresource.ru.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:resources\\sharedresource.ru.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Task Intrasition\\CursProject\\resources\\views\\index\\index.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\index\\index.ru.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\task intrasition\\cursproject\\resources\\views\\surveytemplate\\index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:resources\\views\\surveytemplate\\index.en.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\data\\migrations\\20250305110937_addfieldaccountidnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:data\\migrations\\20250305110937_addfieldaccountidnull.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|e:\\task intrasition\\cursproject\\data\\migrations\\20250305103626_addfieldaccountidsaleforceinapplicauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E210AE4D-A305-4606-9E2B-46AC08E186C1}|CursProject.csproj|solutionrelative:data\\migrations\\20250305103626_addfieldaccountidsaleforceinapplicauser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwOYAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:09:41.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Integration.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\User\\Integration.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Integration.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\User\\Integration.cshtml",
+              "RelativeToolTip": "Views\\User\\Integration.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABkAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-03T11:36:10.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\Index.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Views\\User\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:57:05.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EditIntegration.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\User\\EditIntegration.cshtml",
+              "RelativeDocumentMoniker": "Views\\User\\EditIntegration.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\User\\EditIntegration.cshtml",
+              "RelativeToolTip": "Views\\User\\EditIntegration.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-05T15:55:55.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ActionMethodExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\4c6f639e055711cbb20ac270d93769bdef480bbe2508bc3c4dfcd9f9c87a3267\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ToolTip": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\4c6f639e055711cbb20ac270d93769bdef480bbe2508bc3c4dfcd9f9c87a3267\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ActionMethodExecutor.cs",
+              "ViewState": "AgIAAPUAAAAAAAAAAAAWwAcBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:19:20.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SharedResource.en.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.en.resx",
+              "RelativeDocumentMoniker": "Resources\\SharedResource.en.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.en.resx",
+              "RelativeToolTip": "Resources\\SharedResource.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T15:09:29.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SharedResource.ru.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.ru.resx",
+              "RelativeDocumentMoniker": "Resources\\SharedResource.ru.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.ru.resx",
+              "RelativeToolTip": "Resources\\SharedResource.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T15:09:32.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SalesforceService.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Service\\SalesforceService.cs",
+              "RelativeDocumentMoniker": "Service\\SalesforceService.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Service\\SalesforceService.cs",
+              "RelativeToolTip": "Service\\SalesforceService.cs",
+              "ViewState": "AgIAAMQAAAAAAAAAAAAlwN4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:38:13.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\c24db518dc6084a6441698ccf15ee593807c28be1076f175b6398dd6a741df61\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ToolTip": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\c24db518dc6084a6441698ccf15ee593807c28be1076f175b6398dd6a741df61\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ViewState": "AgIAAPECAAAAAAAAAAAWwP8CAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T11:57:30.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AggregatedResponsesViewModel.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\AggregatedResponsesViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\AggregatedResponsesViewModel.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\AggregatedResponsesViewModel.cs",
+              "RelativeToolTip": "Models\\AggregatedResponsesViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:20:03.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TaskAwaiter.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\a718a2f2f2767c5f624ca3dccd7785513114b231bd7696c49a4a08a5e3228791\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs",
+              "ToolTip": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\a718a2f2f2767c5f624ca3dccd7785513114b231bd7696c49a4a08a5e3228791\\src\\libraries\\System.Private.CoreLib\\src\\System\\Runtime\\CompilerServices\\TaskAwaiter.cs",
+              "ViewState": "AgIAAEABAAAAAAAAAAAWwE8BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:42:21.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20250305110937_AddFieldAccountIdNull.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Data\\Migrations\\20250305110937_AddFieldAccountIdNull.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250305110937_AddFieldAccountIdNull.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Data\\Migrations\\20250305110937_AddFieldAccountIdNull.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250305110937_AddFieldAccountIdNull.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T11:09:37.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SurveyTemplateController.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Controllers\\SurveyTemplateController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SurveyTemplateController.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Controllers\\SurveyTemplateController.cs",
+              "RelativeToolTip": "Controllers\\SurveyTemplateController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAWwFAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:06:26.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:21.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SalesforceIntegrationViewModel.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\SalesforceIntegrationViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SalesforceIntegrationViewModel.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\SalesforceIntegrationViewModel.cs",
+              "RelativeToolTip": "Models\\SalesforceIntegrationViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T10:48:52.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:56:58.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T09:23:24.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAWwKoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:36:22.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-26T19:46:40.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250305103626_AddFieldAccountIdSaleforceInApplicaUser.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Data\\Migrations\\20250305103626_AddFieldAccountIdSaleforceInApplicaUser.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250305103626_AddFieldAccountIdSaleforceInApplicaUser.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Data\\Migrations\\20250305103626_AddFieldAccountIdSaleforceInApplicaUser.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250305103626_AddFieldAccountIdSaleforceInApplicaUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T10:36:26.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAWwIAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T12:36:06.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T10:22:56.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SharedResource.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.cs",
+              "RelativeDocumentMoniker": "Resources\\SharedResource.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.cs",
+              "RelativeToolTip": "Resources\\SharedResource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T15:09:27.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UserDashboardViewModel.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\UserDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserDashboardViewModel.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\UserDashboardViewModel.cs",
+              "RelativeToolTip": "Models\\UserDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:48.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAcAAAAAAAAAAAASwBYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T15:58:33.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SurveyTemplate.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\SurveyTemplate.cs",
+              "RelativeDocumentMoniker": "Models\\SurveyTemplate.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\SurveyTemplate.cs",
+              "RelativeToolTip": "Models\\SurveyTemplate.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAA9wCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:08:49.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SurveyController.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Controllers\\SurveyController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SurveyController.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Controllers\\SurveyController.cs",
+              "RelativeToolTip": "Controllers\\SurveyController.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAAEAAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:09:41.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SurveyResponse.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\SurveyResponse.cs",
+              "RelativeDocumentMoniker": "Models\\SurveyResponse.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\SurveyResponse.cs",
+              "RelativeToolTip": "Models\\SurveyResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:19:42.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:37:57.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "TemplateLike.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\TemplateLike.cs",
+              "RelativeDocumentMoniker": "Models\\TemplateLike.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\TemplateLike.cs",
+              "RelativeToolTip": "Models\\TemplateLike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:46.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "HtmlHelpers.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Extensions\\HtmlHelpers.cs",
+              "RelativeDocumentMoniker": "Extensions\\HtmlHelpers.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Extensions\\HtmlHelpers.cs",
+              "RelativeToolTip": "Extensions\\HtmlHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T10:21:36.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AdminController.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Controllers\\AdminController.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAwwDkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:09:41.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T11:13:59.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T10:38:21.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Fill.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Survey\\Fill.cshtml",
+              "RelativeDocumentMoniker": "Views\\Survey\\Fill.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Survey\\Fill.cshtml",
+              "RelativeToolTip": "Views\\Survey\\Fill.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:38:09.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:19:52.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SurveyTemplateIndexViewModel.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\SurveyTemplateIndexViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\SurveyTemplateIndexViewModel.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\SurveyTemplateIndexViewModel.cs",
+              "RelativeToolTip": "Models\\SurveyTemplateIndexViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:31.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "TemplateComment.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Models\\TemplateComment.cs",
+              "RelativeDocumentMoniker": "Models\\TemplateComment.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Models\\TemplateComment.cs",
+              "RelativeToolTip": "Models\\TemplateComment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T10:37:32.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RazorView.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\a07df60c3dd1180091a49889726f824e3a51e064493c71df58b7612c34dacf09\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "ToolTip": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\a07df60c3dd1180091a49889726f824e3a51e064493c71df58b7612c34dacf09\\src\\Mvc\\Mvc.Razor\\src\\RazorView.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAjwG8AAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T22:09:56.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T22:38:33.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAB5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:39:23.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ThankYou.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Survey\\ThankYou.cshtml",
+              "RelativeDocumentMoniker": "Views\\Survey\\ThankYou.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Survey\\ThankYou.cshtml",
+              "RelativeToolTip": "Views\\Survey\\ThankYou.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:36:59.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_CommentsPartial.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\_CommentsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\_CommentsPartial.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\_CommentsPartial.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\_CommentsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T18:36:46.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\Create.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Create.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\Create.cshtml",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAAAKoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T12:08:51.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\Details.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Details.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T11:57:44.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\Edit.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Edit.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T16:37:54.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\Index.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Index.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:35:52.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Responses.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Responses.cshtml",
+              "RelativeDocumentMoniker": "Views\\SurveyTemplate\\Responses.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\SurveyTemplate\\Responses.cshtml",
+              "RelativeToolTip": "Views\\SurveyTemplate\\Responses.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-25T17:55:54.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T09:43:40.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "ForgotPassword.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\ForgotPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:41:27.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:41:04.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:36:04.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Lockout.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Lockout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:56:14.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RegisterConfirmation.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\RegisterConfirmation.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:56:32.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACQAAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:07:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T10:36:38.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T09:40:50.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-27T09:23:20.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ControllerActionInvoker.cs",
+              "DocumentMoniker": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\b5df5d81f92d036d6014657fb2cbf047cc6842cea878da6d9c2786a622edc5db\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "ToolTip": "C:\\Users\\Night\\AppData\\Local\\SourceServer\\b5df5d81f92d036d6014657fb2cbf047cc6842cea878da6d9c2786a622edc5db\\src\\Mvc\\Mvc.Core\\src\\Infrastructure\\ControllerActionInvoker.cs",
+              "ViewState": "AgIAAHgBAAAAAAAAAAAWwIYBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T10:21:49.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "SharedResource.en.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.en.resx",
+              "RelativeDocumentMoniker": "Resources\\SharedResource.en.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.en.resx",
+              "RelativeToolTip": "Resources\\SharedResource.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T15:28:12.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "SharedResource.ru.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.ru.resx",
+              "RelativeDocumentMoniker": "Resources\\SharedResource.ru.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\SharedResource.ru.resx",
+              "RelativeToolTip": "Resources\\SharedResource.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T17:26:05.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "package.json",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-25T14:37:55.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-24T15:56:57.385Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "Index.ru.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\Views\\Index\\Index.ru.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\Index\\Index.ru.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\Views\\Index\\Index.ru.resx",
+              "RelativeToolTip": "Resources\\Views\\Index\\Index.ru.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T17:41:01.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.en.resx",
+              "DocumentMoniker": "E:\\Task Intrasition\\CursProject\\Resources\\Views\\SurveyTemplate\\Index.en.resx",
+              "RelativeDocumentMoniker": "Resources\\Views\\SurveyTemplate\\Index.en.resx",
+              "ToolTip": "E:\\Task Intrasition\\CursProject\\Resources\\Views\\SurveyTemplate\\Index.en.resx",
+              "RelativeToolTip": "Resources\\Views\\SurveyTemplate\\Index.en.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-02-26T17:39:46.465Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

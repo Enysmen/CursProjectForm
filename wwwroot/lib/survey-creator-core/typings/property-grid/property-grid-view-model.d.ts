@@ -1,0 +1,31 @@
+import { Base, SurveyModel, Action } from "survey-core";
+import { PropertyGridModel } from "./index";
+import { SurveyCreatorModel } from "../creator-base";
+import { SearchManagerPropertyGrid } from "./search-manager";
+import { MenuButton } from "../utils/actions";
+export declare class PropertyGridViewModel extends Base {
+    private propertyGridModel;
+    private creator;
+    nextSelectionAction: Action;
+    prevSelectionAction: Action;
+    objectSelectionAction: MenuButton;
+    searchManager: SearchManagerPropertyGrid;
+    private selectorPopupModel;
+    hasPrev: boolean;
+    hasNext: boolean;
+    survey: SurveyModel;
+    selectedElementName: string;
+    searchEnabled: boolean;
+    showPlaceholder: boolean;
+    constructor(propertyGridModel: PropertyGridModel, creator: SurveyCreatorModel);
+    get rootCss(): string;
+    protected onPropertyValueChanged(name: string, oldValue: any, newValue: any): void;
+    private get selectionController();
+    private onSurveyChanged;
+    private updateTitle;
+    private getTitle;
+    private getSelectedObj;
+    private initActions;
+    private createObjectSwitcherAction;
+    dispose(): void;
+}
